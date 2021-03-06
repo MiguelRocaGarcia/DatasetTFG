@@ -3,7 +3,6 @@
 12_IncedenceOfTuberculosis.csv
 13_HepatitusBsurfaceAntigen.csv
 14_InterventionAgainstNTDs.csv
-15_NewHIVInfections.csv
 16_CardiovascularDyingProbability30_70.csv
 17_SuicideRates.csv
 18_AlcoholSubstanceAbuse.csv
