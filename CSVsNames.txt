@@ -42,7 +42,6 @@
 48_PopulationAges.csv
 49_PovertyGap.csv
 4_HALEbyContient.csv
-5_HALEbyContinentPercentage.csv
 6_MaternalMortalityRatio.csv
 7_BirthAttendedBySkilledPersonal.csv
 8_InfantMortalityRate.csv
