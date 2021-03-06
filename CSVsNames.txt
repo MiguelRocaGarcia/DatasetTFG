@@ -31,7 +31,7 @@
 39_CleanFuelAndTech.csv
 3_HALEbyCountry.csv
 40_BirthRate.csv
-41_Battle_related_deaths.csv
+41_BattleRelatedDeaths.csv
 42_InjuryDeathsPercentage.csv
 43_DeathRate.csv
 44_GDPperCapita.csv
