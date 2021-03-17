@@ -7,7 +7,7 @@
 17_SuicideRates.csv
 18_AlcoholSubstanceAbuse.csv
 19_RoadTrafficDeaths.csv
-1_LifeExpectancyAtBirthCountry.csv
+1_LifeExpectancyAtBirth.csv
 20_ReproductiveAgeWomen.csv
 21_AdolescentBirthRate.csv
 22_UniversalHealthCareCoverage.csv
@@ -18,7 +18,6 @@
 27_MortalityRateUnsafeWash.csv
 28_MortalityRatePoisoning.csv
 29_TobaccoPrevalence.csv
-2_LifeExpectancyAtBirthContient.csv
 30_MedicalDoctors.csv
 31_NursingAndMidwife.csv
 32_Dentists.csv
@@ -28,7 +27,6 @@
 37_SafelySanitization.csv
 38_BasicHandWashing.csv
 39_CleanFuelAndTech.csv
-3_HALEbyCountry.csv
 40_BirthRate.csv
 41_BattleRelatedDeaths.csv
 42_InjuryDeathsPercentage.csv
@@ -37,7 +35,6 @@
 45_PovertyGap.csv
 46_IcomePerCapita.csv
 47_PopulationAges.csv
-4_HALEbyContient.csv
 6_MaternalMortalityRatio.csv
 7_BirthAttendedBySkilledPersonal.csv
 8_InfantMortalityRate.csv
