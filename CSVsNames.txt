@@ -16,7 +16,6 @@
 25_Population25PercentageSDG.csv
 26_AirPollutionDeathRate.csv
 27_MortalityRateUnsafeWash.csv
-28_MortalityRatePoisoning - Completo.csv
 28_MortalityRatePoisoning.csv
 29_TobaccoPrevalence.csv
 30_MedicalDoctors.csv
