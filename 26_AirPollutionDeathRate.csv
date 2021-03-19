@@ -1,4 +1,4 @@
-﻿Location,Dim2,Indicator,Period,Dim1,First Tooltip
+﻿Country,Disease,Indicator,Year,Gender,Value
 Afghanistan,Total,Ambient and household air pollution attributable death rate (per 100 000 population),2016,Both sexes,95.12 [85.12-104.3]
 Afghanistan,Total,Ambient and household air pollution attributable death rate (per 100 000 population),2016,Male,95.58 [85.5-106]
 Afghanistan,Total,Ambient and household air pollution attributable death rate (per 100 000 population),2016,Female,94.63 [84.55-103.9]

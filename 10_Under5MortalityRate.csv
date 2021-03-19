@@ -1,4 +1,4 @@
-﻿Location,Period,Indicator,Dim1,First Tooltip
+﻿Country,Year,Indicator,Gender,Value
 Afghanistan,2019,Under-five mortality rate (probability of dying by age 5 per 1000 live births),Both sexes,60.27 [47.44-74.62]
 Afghanistan,2019,Under-five mortality rate (probability of dying by age 5 per 1000 live births),Male,63.83 [50.04-79.16]
 Afghanistan,2019,Under-five mortality rate (probability of dying by age 5 per 1000 live births),Female,56.57 [44.54-70.18]

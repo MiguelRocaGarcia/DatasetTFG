@@ -1,4 +1,4 @@
-﻿Location,Period,Indicator,Dim1,First Tooltip
+﻿Country,Year,Indicator,Gender,Value
 Afghanistan,2019,Infant mortality rate (probability of dying between birth and age 1 per 1000 live births),Both sexes,46.51 [37.71-55.82]
 Afghanistan,2019,Infant mortality rate (probability of dying between birth and age 1 per 1000 live births),Male,49.8 [40.2-59.95]
 Afghanistan,2019,Infant mortality rate (probability of dying between birth and age 1 per 1000 live births),Female,43.05 [34.82-51.96]

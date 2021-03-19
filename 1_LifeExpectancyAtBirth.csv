@@ -1,4 +1,4 @@
-Series Name,Country Name,Time,Gender,Value
+Indicator,Country,Year,Gender,Value
 "Life expectancy at birth, female (years)",Afghanistan,1990,Female,51.442
 "Life expectancy at birth, male (years)",Afghanistan,1990,Female,49.281
 "Life expectancy at birth, total (years)",Afghanistan,1990,Female,50.331
