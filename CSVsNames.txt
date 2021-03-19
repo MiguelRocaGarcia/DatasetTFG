@@ -16,6 +16,7 @@
 25_Population25PercentageSDG.csv
 26_AirPollutionDeathRate.csv
 27_MortalityRateUnsafeWash.csv
+28_MortalityRatePoisoning - Completo.csv
 28_MortalityRatePoisoning.csv
 29_TobaccoPrevalence.csv
 30_MedicalDoctors.csv
@@ -32,8 +33,17 @@
 42_InjuryDeathsPercentage.csv
 43_DeathRate.csv
 44_GDPperCapita.csv
-45_PovertyGap.csv
+45-1_PovertyGap1.90.csv
+45-2_PovertyGap3.20.csv
+45-3_PovertyGap5.50.csv
 46_IcomePerCapita.csv
+47-1_PopulationAges0-14.csv
+47-2_PopulationAges15-64.csv
+47-3_PopulationAges65+.csv
+47-4_PopulationAges65-69.csv
+47-5_PopulationAges70-74.csv
+47-6_PopulationAges75-79.csv
+47-7_PopulationAges80+.csv
 47_PopulationAges.csv
 6_MaternalMortalityRatio.csv
 7_BirthAttendedBySkilledPersonal.csv
