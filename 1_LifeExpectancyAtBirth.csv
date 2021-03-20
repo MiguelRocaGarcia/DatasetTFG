@@ -89,8 +89,6 @@ Afghanistan,2018,Male,63.047
 Afghanistan,2019,Both sexes,64.833
 Afghanistan,2019,Female,66.388
 Afghanistan,2019,Male,63.382
-Afghanistan,2020,Female,66.744
-Afghanistan,2020,Male,63.708
 Africa,1990,Both sexes,52.083
 Africa,1990,Female,53.831
 Africa,1990,Male,50.39
@@ -181,8 +179,6 @@ Africa,2018,Male,61.068000000000005
 Africa,2019,Both sexes,63.17
 Africa,2019,Female,64.97800000000001
 Africa,2019,Male,61.383
-Africa,2020,Female,65.296
-Africa,2020,Male,61.67
 Albania,1990,Both sexes,71.836
 Albania,1990,Female,74.991
 Albania,1990,Male,69.07
@@ -273,8 +269,6 @@ Albania,2018,Male,76.816
 Albania,2019,Both sexes,78.573
 Albania,2019,Female,80.20100000000001
 Albania,2019,Male,77.002
-Albania,2020,Female,80.256
-Albania,2020,Male,77.163
 Algeria,1990,Both sexes,66.938
 Algeria,1990,Female,68.471
 Algeria,1990,Male,65.413
@@ -365,8 +359,6 @@ Algeria,2018,Male,75.494
 Algeria,2019,Both sexes,76.88
 Algeria,2019,Female,78.133
 Algeria,2019,Male,75.676
-Algeria,2020,Female,78.321
-Algeria,2020,Male,75.857
 American Samoa,1990,Both sexes,70.996
 American Samoa,1991,Both sexes,71.03
 American Samoa,1992,Both sexes,71.063
@@ -547,8 +539,6 @@ Angola,2018,Male,58.06399999999999
 Angola,2019,Both sexes,61.147
 Angola,2019,Female,64.039
 Angola,2019,Male,58.416
-Angola,2020,Female,64.383
-Angola,2020,Male,58.744
 Anguilla,1990,Both sexes,74.716
 Anguilla,1991,Both sexes,75.143
 Anguilla,1992,Both sexes,75.538
@@ -669,8 +659,6 @@ Antigua and Barbuda,2018,Male,75.721
 Antigua and Barbuda,2019,Both sexes,77.016
 Antigua and Barbuda,2019,Female,78.104
 Antigua and Barbuda,2019,Male,75.858
-Antigua and Barbuda,2020,Female,78.232
-Antigua and Barbuda,2020,Male,75.984
 Argentina,1990,Both sexes,71.594
 Argentina,1990,Female,75.119
 Argentina,1990,Male,68.138
@@ -761,8 +749,6 @@ Argentina,2018,Male,73.082
 Argentina,2019,Both sexes,76.667
 Argentina,2019,Female,79.995
 Argentina,2019,Male,73.242
-Argentina,2020,Female,80.122
-Argentina,2020,Male,73.405
 Armenia,1990,Both sexes,67.879
 Armenia,1990,Female,70.782
 Armenia,1990,Male,64.86
@@ -853,8 +839,6 @@ Armenia,2018,Male,71.215
 Armenia,2019,Both sexes,75.087
 Armenia,2019,Female,78.516
 Armenia,2019,Male,71.327
-Armenia,2020,Female,78.652
-Armenia,2020,Male,71.453
 Aruba,1990,Both sexes,73.468
 Aruba,1990,Female,75.932
 Aruba,1990,Male,70.969
@@ -945,8 +929,6 @@ Aruba,2018,Male,73.628
 Aruba,2019,Both sexes,76.293
 Aruba,2019,Female,78.641
 Aruba,2019,Male,73.768
-Aruba,2020,Female,78.774
-Aruba,2020,Male,73.908
 Asia,1990,Both sexes,64.25
 Asia,1990,Female,65.882
 Asia,1990,Male,62.732
@@ -1037,8 +1019,6 @@ Asia,2018,Male,71.295
 Asia,2019,Both sexes,73.593
 Asia,2019,Female,75.82
 Asia,2019,Male,71.503
-Asia,2020,Female,76.015
-Asia,2020,Male,71.694
 "Asia, Central",1990,Female,68.993
 "Asia, Central",1990,Male,61.408
 "Asia, Central",1991,Female,68.80199999999999
@@ -1099,8 +1079,6 @@ Asia,2020,Male,71.694
 "Asia, Central",2018,Male,68.567
 "Asia, Central",2019,Female,74.97800000000001
 "Asia, Central",2019,Male,68.789
-"Asia, Central",2020,Female,75.146
-"Asia, Central",2020,Male,68.95
 Australia,1990,Both sexes,76.933
 Australia,1990,Female,80.036
 Australia,1990,Male,73.87899999999999
@@ -1191,8 +1169,6 @@ Australia,2018,Male,81.313
 Australia,2019,Both sexes,83.436
 Australia,2019,Female,85.40299999999999
 Australia,2019,Male,81.492
-Australia,2020,Female,85.524
-Australia,2020,Male,81.666
 Australia & New Zealand,1990,Female,79.737
 Australia & New Zealand,1990,Male,73.625
 Australia & New Zealand,1991,Female,79.999
@@ -1253,8 +1229,6 @@ Australia & New Zealand,2018,Female,85.037
 Australia & New Zealand,2018,Male,81.16199999999999
 Australia & New Zealand,2019,Female,85.165
 Australia & New Zealand,2019,Male,81.34
-Australia & New Zealand,2020,Female,85.286
-Australia & New Zealand,2020,Male,81.515
 Austria,1990,Both sexes,75.596
 Austria,1990,Female,78.758
 Austria,1990,Male,72.095
@@ -1345,8 +1319,6 @@ Austria,2018,Male,79.009
 Austria,2019,Both sexes,81.544
 Austria,2019,Female,83.866
 Austria,2019,Male,79.169
-Austria,2020,Female,83.945
-Austria,2020,Male,79.35
 Azerbaijan,1990,Both sexes,64.827
 Azerbaijan,1990,Female,68.817
 Azerbaijan,1990,Male,60.676
@@ -1437,8 +1409,6 @@ Azerbaijan,2018,Male,70.345
 Azerbaijan,2019,Both sexes,73.005
 Azerbaijan,2019,Female,75.455
 Azerbaijan,2019,Male,70.51100000000001
-Azerbaijan,2020,Female,75.574
-Azerbaijan,2020,Male,70.63
 Bahamas,1990,Both sexes,70.199
 Bahamas,1990,Female,73.678
 Bahamas,1990,Male,66.756
@@ -1529,8 +1499,6 @@ Bahamas,2018,Male,71.499
 Bahamas,2019,Both sexes,73.918
 Bahamas,2019,Female,76.081
 Bahamas,2019,Male,71.65899999999999
-Bahamas,2020,Female,76.22800000000001
-Bahamas,2020,Male,71.78
 Bahrain,1990,Both sexes,72.39
 Bahrain,1990,Female,73.65100000000001
 Bahrain,1990,Male,71.435
@@ -1621,8 +1589,6 @@ Bahrain,2018,Male,76.312
 Bahrain,2019,Both sexes,77.292
 Bahrain,2019,Female,78.423
 Bahrain,2019,Male,76.436
-Bahrain,2020,Female,78.557
-Bahrain,2020,Male,76.559
 Bangladesh,1990,Both sexes,58.21
 Bangladesh,1990,Female,58.214
 Bangladesh,1990,Male,58.215
@@ -1713,8 +1679,6 @@ Bangladesh,2018,Male,70.637
 Bangladesh,2019,Both sexes,72.591
 Bangladesh,2019,Female,74.595
 Bangladesh,2019,Male,70.877
-Bangladesh,2020,Female,74.893
-Bangladesh,2020,Male,71.13
 Barbados,1990,Both sexes,74.704
 Barbados,1990,Female,76.638
 Barbados,1990,Male,72.48899999999999
@@ -1805,8 +1769,6 @@ Barbados,2018,Male,77.682
 Barbados,2019,Both sexes,79.19
 Barbados,2019,Female,80.482
 Barbados,2019,Male,77.814
-Barbados,2020,Female,80.579
-Barbados,2020,Male,77.958
 Belarus,1990,Both sexes,70.648
 Belarus,1990,Female,75.502
 Belarus,1990,Male,65.423
@@ -1897,8 +1859,6 @@ Belarus,2018,Male,69.40100000000001
 Belarus,2019,Both sexes,74.791
 Belarus,2019,Female,79.572
 Belarus,2019,Male,69.652
-Belarus,2020,Female,79.688
-Belarus,2020,Male,69.85
 Belgium,1990,Both sexes,75.862
 Belgium,1990,Female,79.2
 Belgium,1990,Male,72.503
@@ -1989,8 +1949,6 @@ Belgium,2018,Male,79.122
 Belgium,2019,Both sexes,81.628
 Belgium,2019,Female,83.882
 Belgium,2019,Male,79.32
-Belgium,2020,Female,84.007
-Belgium,2020,Male,79.516
 Belize,1990,Both sexes,71.242
 Belize,1990,Female,73.581
 Belize,1990,Male,69.089
@@ -2081,8 +2039,6 @@ Belize,2018,Male,71.579
 Belize,2019,Both sexes,74.623
 Belize,2019,Female,77.843
 Belize,2019,Male,71.65
-Belize,2020,Female,77.991
-Belize,2020,Male,71.756
 Benin,1990,Both sexes,53.812
 Benin,1990,Female,55.795
 Benin,1990,Male,51.732
@@ -2173,8 +2129,6 @@ Benin,2018,Male,59.914
 Benin,2019,Both sexes,61.771
 Benin,2019,Female,63.324
 Benin,2019,Male,60.201
-Benin,2020,Female,63.646
-Benin,2020,Male,60.494
 Bermuda,1990,Both sexes,75.075
 Bermuda,1991,Both sexes,75.304
 Bermuda,1992,Both sexes,75.578
@@ -2295,8 +2249,6 @@ Bhutan,2018,Male,71.123
 Bhutan,2019,Both sexes,71.777
 Bhutan,2019,Female,72.176
 Bhutan,2019,Male,71.405
-Bhutan,2020,Female,72.524
-Bhutan,2020,Male,71.673
 Bolivia,1990,Both sexes,56.099
 Bolivia,1990,Female,57.637
 Bolivia,1990,Male,54.609
@@ -2387,8 +2339,6 @@ Bolivia,2018,Male,68.434
 Bolivia,2019,Both sexes,71.513
 Bolivia,2019,Female,74.508
 Bolivia,2019,Male,68.684
-Bolivia,2020,Female,74.78
-Bolivia,2020,Male,68.92699999999999
 Bonaire Sint Eustatius and Saba,1990,Both sexes,74.417
 Bonaire Sint Eustatius and Saba,1991,Both sexes,74.406
 Bonaire Sint Eustatius and Saba,1992,Both sexes,74.378
@@ -2509,8 +2459,6 @@ Bosnia and Herzegovina,2018,Male,74.752
 Bosnia and Herzegovina,2019,Both sexes,77.401
 Bosnia and Herzegovina,2019,Female,79.857
 Bosnia and Herzegovina,2019,Male,74.893
-Bosnia and Herzegovina,2020,Female,79.991
-Bosnia and Herzegovina,2020,Male,75.048
 Botswana,1990,Both sexes,59.191
 Botswana,1990,Female,63.131
 Botswana,1990,Male,55.278
@@ -2601,8 +2549,6 @@ Botswana,2018,Male,66.204
 Botswana,2019,Both sexes,69.592
 Botswana,2019,Female,72.38600000000001
 Botswana,2019,Male,66.485
-Botswana,2020,Female,72.604
-Botswana,2020,Male,66.665
 Brazil,1990,Both sexes,66.343
 Brazil,1990,Female,69.82300000000001
 Brazil,1990,Male,63.066
@@ -2693,8 +2639,6 @@ Brazil,2018,Male,72.024
 Brazil,2019,Both sexes,75.881
 Brazil,2019,Female,79.555
 Brazil,2019,Male,72.243
-Brazil,2020,Female,79.736
-Brazil,2020,Male,72.46300000000001
 British Virgin Islands,1990,Both sexes,73.818
 British Virgin Islands,1991,Both sexes,74.162
 British Virgin Islands,1992,Both sexes,74.508
@@ -2815,8 +2759,6 @@ Brunei,2018,Male,74.593
 Brunei,2019,Both sexes,75.86
 Brunei,2019,Female,77.10600000000001
 Brunei,2019,Male,74.72800000000001
-Brunei,2020,Female,77.256
-Brunei,2020,Male,74.859
 Bulgaria,1990,Both sexes,71.275
 Bulgaria,1990,Female,74.818
 Bulgaria,1990,Male,67.99
@@ -2907,8 +2849,6 @@ Bulgaria,2018,Male,71.432
 Bulgaria,2019,Both sexes,75.046
 Bulgaria,2019,Female,78.665
 Bulgaria,2019,Male,71.55
-Bulgaria,2020,Female,78.78
-Bulgaria,2020,Male,71.68
 Burkina Faso,1990,Both sexes,49.454
 Burkina Faso,1990,Female,50.516000000000005
 Burkina Faso,1990,Male,48.27
@@ -2999,8 +2939,6 @@ Burkina Faso,2018,Male,60.361
 Burkina Faso,2019,Both sexes,61.577
 Burkina Faso,2019,Female,62.294
 Burkina Faso,2019,Male,60.739
-Burkina Faso,2020,Female,62.724
-Burkina Faso,2020,Male,61.119
 Burundi,1990,Both sexes,47.829
 Burundi,1990,Female,49.121
 Burundi,1990,Male,46.482
@@ -3091,8 +3029,6 @@ Burundi,2018,Male,59.435
 Burundi,2019,Both sexes,61.584
 Burundi,2019,Female,63.377
 Burundi,2019,Male,59.764
-Burundi,2020,Female,63.721
-Burundi,2020,Male,60.086000000000006
 Cambodia,1990,Both sexes,53.595
 Cambodia,1990,Female,55.922
 Cambodia,1990,Male,51.213
@@ -3183,8 +3119,6 @@ Cambodia,2018,Male,67.312
 Cambodia,2019,Both sexes,69.823
 Cambodia,2019,Female,71.90899999999999
 Cambodia,2019,Male,67.538
-Cambodia,2020,Female,72.163
-Cambodia,2020,Male,67.748
 Cameroon,1990,Both sexes,53.362
 Cameroon,1990,Female,54.891000000000005
 Cameroon,1990,Male,51.858
@@ -3275,8 +3209,6 @@ Cameroon,2018,Male,57.656000000000006
 Cameroon,2019,Both sexes,59.292
 Cameroon,2019,Female,60.56100000000001
 Cameroon,2019,Male,58.029
-Cameroon,2020,Female,60.904
-Cameroon,2020,Male,58.354
 Canada,1990,Both sexes,77.303
 Canada,1990,Female,80.501
 Canada,1990,Male,74.104
@@ -3367,8 +3299,6 @@ Canada,2018,Male,80.288
 Canada,2019,Both sexes,82.434
 Canada,2019,Female,84.391
 Canada,2019,Male,80.447
-Canada,2020,Female,84.48100000000001
-Canada,2020,Male,80.627
 Cape Verde,1990,Both sexes,64.676
 Cape Verde,1990,Female,66.209
 Cape Verde,1990,Male,62.942
@@ -3459,8 +3389,6 @@ Cape Verde,2018,Male,69.316
 Cape Verde,2019,Both sexes,72.981
 Cape Verde,2019,Female,76.197
 Cape Verde,2019,Male,69.52600000000001
-Cape Verde,2020,Female,76.384
-Cape Verde,2020,Male,69.721
 Caribbean,1990,Female,69.403
 Caribbean,1990,Male,64.903
 Caribbean,1991,Female,69.624
@@ -3521,8 +3449,6 @@ Caribbean,2018,Female,75.188
 Caribbean,2018,Male,70.061
 Caribbean,2019,Female,75.359
 Caribbean,2019,Male,70.226
-Caribbean,2020,Female,75.527
-Caribbean,2020,Male,70.39
 Cayman Islands,1990,Both sexes,75.167
 Cayman Islands,1991,Both sexes,75.561
 Cayman Islands,1992,Both sexes,75.951
@@ -3643,8 +3569,6 @@ Central African Republic,2018,Male,50.649
 Central African Republic,2019,Both sexes,53.283
 Central African Republic,2019,Female,55.514
 Central African Republic,2019,Male,51.081
-Central African Republic,2020,Female,55.932
-Central African Republic,2020,Male,51.45399999999999
 Central America,1990,Female,72.503
 Central America,1990,Male,66.505
 Central America,1991,Female,72.883
@@ -3705,8 +3629,6 @@ Central America,2018,Female,77.87899999999999
 Central America,2018,Male,72.008
 Central America,2019,Female,77.954
 Central America,2019,Male,72.126
-Central America,2020,Female,78.043
-Central America,2020,Male,72.25399999999999
 Central and Southern Asia,1990,Female,59.237
 Central and Southern Asia,1990,Male,57.94
 Central and Southern Asia,1991,Female,59.748000000000005
@@ -3767,8 +3689,6 @@ Central and Southern Asia,2018,Female,71.047
 Central and Southern Asia,2018,Male,68.29899999999999
 Central and Southern Asia,2019,Female,71.295
 Central and Southern Asia,2019,Male,68.516
-Central and Southern Asia,2020,Female,71.53699999999999
-Central and Southern Asia,2020,Male,68.722
 Chad,1990,Both sexes,47.019
 Chad,1990,Female,48.248000000000005
 Chad,1990,Male,45.798
@@ -3859,8 +3779,6 @@ Chad,2018,Male,52.577
 Chad,2019,Both sexes,54.239
 Chad,2019,Female,55.669
 Chad,2019,Male,52.835
-Chad,2020,Female,55.945
-Chad,2020,Male,53.093
 Channel Islands,1990,Both sexes,75.41
 Channel Islands,1990,Female,78.19800000000001
 Channel Islands,1990,Male,72.586
@@ -3951,8 +3869,6 @@ Channel Islands,2018,Male,80.97399999999999
 Channel Islands,2019,Both sexes,83.086
 Channel Islands,2019,Female,84.915
 Channel Islands,2019,Male,81.173
-Channel Islands,2020,Female,85.031
-Channel Islands,2020,Male,81.367
 Chile,1990,Both sexes,73.509
 Chile,1990,Female,76.538
 Chile,1990,Male,70.38600000000001
@@ -4043,8 +3959,6 @@ Chile,2018,Male,77.55199999999999
 Chile,2019,Both sexes,80.181
 Chile,2019,Female,82.44200000000001
 Chile,2019,Male,77.771
-Chile,2020,Female,82.522
-Chile,2020,Male,77.99
 China,1990,Both sexes,69.145
 China,1990,Female,71.00399999999999
 China,1990,Male,67.446
@@ -4135,8 +4049,6 @@ China,2018,Male,74.54899999999999
 China,2019,Both sexes,76.912
 China,2019,Female,79.244
 China,2019,Male,74.76100000000001
-China,2020,Female,79.411
-China,2020,Male,74.953
 Colombia,1990,Both sexes,69.75
 Colombia,1990,Female,73.579
 Colombia,1990,Male,66.036
@@ -4227,8 +4139,6 @@ Colombia,2018,Male,74.33
 Colombia,2019,Both sexes,77.287
 Colombia,2019,Female,80.01899999999999
 Colombia,2019,Male,74.528
-Colombia,2020,Female,80.173
-Colombia,2020,Male,74.72
 Comoros,1990,Both sexes,56.677
 Comoros,1990,Female,58.266000000000005
 Comoros,1990,Male,55.118
@@ -4319,8 +4229,6 @@ Comoros,2018,Male,62.399
 Comoros,2019,Both sexes,64.321
 Comoros,2019,Female,66.12100000000001
 Comoros,2019,Male,62.587
-Comoros,2020,Female,66.34100000000001
-Comoros,2020,Male,62.775
 Congo,1990,Both sexes,54.638
 Congo,1990,Female,57.821000000000005
 Congo,1990,Male,51.544
@@ -4411,8 +4319,6 @@ Congo,2018,Male,62.837
 Congo,2019,Both sexes,64.57
 Congo,2019,Female,66.023
 Congo,2019,Male,63.082
-Congo,2020,Female,66.28699999999999
-Congo,2020,Male,63.291
 Cook Islands,1990,Both sexes,68.533
 Cook Islands,1991,Both sexes,68.904
 Cook Islands,1992,Both sexes,69.263
@@ -4533,8 +4439,6 @@ Costa Rica,2018,Male,77.539
 Costa Rica,2019,Both sexes,80.279
 Costa Rica,2019,Female,82.89299999999999
 Costa Rica,2019,Male,77.73899999999999
-Costa Rica,2020,Female,83.045
-Costa Rica,2020,Male,77.95100000000001
 Cote d'Ivoire,1990,Both sexes,53.254
 Cote d'Ivoire,1990,Female,55.271
 Cote d'Ivoire,1990,Male,51.571000000000005
@@ -4625,8 +4529,6 @@ Cote d'Ivoire,2018,Male,56.251000000000005
 Cote d'Ivoire,2019,Both sexes,57.783
 Cote d'Ivoire,2019,Female,59.119
 Cote d'Ivoire,2019,Male,56.593
-Cote d'Ivoire,2020,Female,59.455
-Cote d'Ivoire,2020,Male,56.897
 Croatia,1990,Both sexes,72.315
 Croatia,1990,Female,75.957
 Croatia,1990,Male,68.572
@@ -4717,8 +4619,6 @@ Croatia,2018,Male,75.131
 Croatia,2019,Both sexes,78.488
 Croatia,2019,Female,81.59
 Croatia,2019,Male,75.296
-Croatia,2020,Female,81.71600000000001
-Croatia,2020,Male,75.471
 Cuba,1990,Both sexes,74.638
 Cuba,1990,Female,76.584
 Cuba,1990,Male,72.796
@@ -4809,8 +4709,6 @@ Cuba,2018,Male,76.763
 Cuba,2019,Both sexes,78.802
 Cuba,2019,Female,80.779
 Cuba,2019,Male,76.84
-Cuba,2020,Female,80.862
-Cuba,2020,Male,76.935
 Curacao,1990,Both sexes,74.547
 Curacao,1990,Female,77.475
 Curacao,1990,Male,71.52199999999999
@@ -4901,8 +4799,6 @@ Curacao,2018,Male,75.601
 Curacao,2019,Both sexes,78.88
 Curacao,2019,Female,81.63
 Curacao,2019,Male,75.775
-Curacao,2020,Female,81.757
-Curacao,2020,Male,75.954
 Cyprus,1990,Both sexes,76.554
 Cyprus,1990,Female,78.616
 Cyprus,1990,Male,74.513
@@ -4993,8 +4889,6 @@ Cyprus,2018,Male,78.735
 Cyprus,2019,Both sexes,80.982
 Cyprus,2019,Female,83.03200000000001
 Cyprus,2019,Male,78.921
-Cyprus,2020,Female,83.15100000000001
-Cyprus,2020,Male,79.10300000000001
 Czechia,1990,Both sexes,71.89
 Czechia,1990,Female,75.61399999999999
 Czechia,1990,Male,68.202
@@ -5085,8 +4979,6 @@ Czechia,2018,Male,76.559
 Czechia,2019,Both sexes,79.376
 Czechia,2019,Female,81.944
 Czechia,2019,Male,76.76
-Czechia,2020,Female,82.05799999999999
-Czechia,2020,Male,76.942
 Democratic Republic of Congo,1990,Both sexes,49.043
 Democratic Republic of Congo,1990,Female,50.464
 Democratic Republic of Congo,1990,Male,47.592
@@ -5177,8 +5069,6 @@ Democratic Republic of Congo,2018,Male,58.852
 Democratic Republic of Congo,2019,Both sexes,60.681
 Democratic Republic of Congo,2019,Female,62.233
 Democratic Republic of Congo,2019,Male,59.147
-Democratic Republic of Congo,2020,Female,62.54
-Democratic Republic of Congo,2020,Male,59.42
 Denmark,1990,Both sexes,74.941
 Denmark,1990,Female,77.744
 Denmark,1990,Male,72.149
@@ -5269,8 +5159,6 @@ Denmark,2018,Male,78.812
 Denmark,2019,Both sexes,80.898
 Denmark,2019,Female,82.865
 Denmark,2019,Male,78.946
-Denmark,2020,Female,82.97200000000001
-Denmark,2020,Male,79.097
 Djibouti,1990,Both sexes,56.678
 Djibouti,1990,Female,58.273
 Djibouti,1990,Male,55.13
@@ -5361,8 +5249,6 @@ Djibouti,2018,Male,64.62899999999999
 Djibouti,2019,Both sexes,67.112
 Djibouti,2019,Female,69.357
 Djibouti,2019,Male,65.116
-Djibouti,2020,Female,69.766
-Djibouti,2020,Male,65.467
 Dominica,1990,Both sexes,74.104
 Dominica,1991,Both sexes,73.965
 Dominica,1992,Both sexes,73.828
@@ -5483,8 +5369,6 @@ Dominican Republic,2018,Male,70.805
 Dominican Republic,2019,Both sexes,74.081
 Dominican Republic,2019,Female,77.381
 Dominican Republic,2019,Male,70.991
-Dominican Republic,2020,Female,77.54899999999999
-Dominican Republic,2020,Male,71.168
 Eastern Africa,1990,Female,50.402
 Eastern Africa,1990,Male,46.644
 Eastern Africa,1991,Female,50.175
@@ -5545,8 +5429,6 @@ Eastern Africa,2018,Female,66.437
 Eastern Africa,2018,Male,62.297
 Eastern Africa,2019,Female,66.847
 Eastern Africa,2019,Male,62.679
-Eastern Africa,2020,Female,67.212
-Eastern Africa,2020,Male,63.016000000000005
 Eastern Asia,1990,Female,72.37
 Eastern Asia,1990,Male,68.19800000000001
 Eastern Asia,1991,Female,72.592
@@ -5607,8 +5489,6 @@ Eastern Asia,2018,Female,80.42399999999999
 Eastern Asia,2018,Male,75.414
 Eastern Asia,2019,Female,80.596
 Eastern Asia,2019,Male,75.617
-Eastern Asia,2020,Female,80.742
-Eastern Asia,2020,Male,75.79899999999999
 Eastern Europe,1990,Female,73.921
 Eastern Europe,1990,Male,64.293
 Eastern Europe,1991,Female,73.821
@@ -5669,8 +5549,6 @@ Eastern Europe,2018,Female,78.47
 Eastern Europe,2018,Male,69.096
 Eastern Europe,2019,Female,78.622
 Eastern Europe,2019,Male,69.293
-Eastern Europe,2020,Female,78.755
-Eastern Europe,2020,Male,69.46600000000001
 Eastern and South-Eastern Asia,1990,Female,71.038
 Eastern and South-Eastern Asia,1990,Male,66.666
 Eastern and South-Eastern Asia,1991,Female,71.294
@@ -5731,8 +5609,6 @@ Eastern and South-Eastern Asia,2018,Female,79.069
 Eastern and South-Eastern Asia,2018,Male,73.757
 Eastern and South-Eastern Asia,2019,Female,79.243
 Eastern and South-Eastern Asia,2019,Male,73.95
-Eastern and South-Eastern Asia,2020,Female,79.395
-Eastern and South-Eastern Asia,2020,Male,74.122
 Ecuador,1990,Both sexes,68.899
 Ecuador,1990,Female,71.304
 Ecuador,1990,Male,66.613
@@ -5823,8 +5699,6 @@ Ecuador,2018,Male,74.058
 Ecuador,2019,Both sexes,77.01
 Ecuador,2019,Female,79.83800000000001
 Ecuador,2019,Male,74.282
-Ecuador,2020,Female,80.023
-Ecuador,2020,Male,74.50399999999999
 Egypt,1990,Both sexes,64.572
 Egypt,1990,Female,66.982
 Egypt,1990,Male,62.233
@@ -5915,8 +5789,6 @@ Egypt,2018,Male,69.59899999999999
 Egypt,2019,Both sexes,71.99
 Egypt,2019,Female,74.35
 Egypt,2019,Male,69.742
-Egypt,2020,Female,74.53
-Egypt,2020,Male,69.883
 El Salvador,1990,Both sexes,64.0
 El Salvador,1990,Female,68.94800000000001
 El Salvador,1990,Male,59.267
@@ -6007,8 +5879,6 @@ El Salvador,2018,Male,68.229
 El Salvador,2019,Both sexes,73.317
 El Salvador,2019,Female,77.842
 El Salvador,2019,Male,68.455
-El Salvador,2020,Female,78.03699999999999
-El Salvador,2020,Male,68.685
 Equatorial Guinea,1990,Both sexes,48.775
 Equatorial Guinea,1990,Female,50.287
 Equatorial Guinea,1990,Male,47.31
@@ -6099,8 +5969,6 @@ Equatorial Guinea,2018,Male,57.41
 Equatorial Guinea,2019,Both sexes,58.735
 Equatorial Guinea,2019,Female,59.918
 Equatorial Guinea,2019,Male,57.743
-Equatorial Guinea,2020,Female,60.25
-Equatorial Guinea,2020,Male,58.056
 Eritrea,1990,Both sexes,49.588
 Eritrea,1990,Female,51.286
 Eritrea,1990,Male,47.959
@@ -6191,8 +6059,6 @@ Eritrea,2018,Male,63.79
 Eritrea,2019,Both sexes,66.321
 Eritrea,2019,Female,68.555
 Eritrea,2019,Male,64.153
-Eritrea,2020,Female,68.92399999999999
-Eritrea,2020,Male,64.49600000000001
 Estonia,1990,Both sexes,69.402
 Estonia,1990,Female,74.34100000000001
 Estonia,1990,Male,64.265
@@ -6283,8 +6149,6 @@ Estonia,2018,Male,74.117
 Estonia,2019,Both sexes,78.745
 Estonia,2019,Female,82.711
 Estonia,2019,Male,74.358
-Estonia,2020,Female,82.83
-Estonia,2020,Male,74.569
 Eswatini,1990,Both sexes,61.95
 Eswatini,1990,Female,63.765
 Eswatini,1990,Male,59.978
@@ -6375,8 +6239,6 @@ Eswatini,2018,Male,55.284
 Eswatini,2019,Both sexes,60.194
 Eswatini,2019,Female,64.845
 Eswatini,2019,Male,56.007
-Eswatini,2020,Female,65.411
-Eswatini,2020,Male,56.515
 Ethiopia,1990,Both sexes,47.099
 Ethiopia,1990,Female,48.651
 Ethiopia,1990,Male,45.61600000000001
@@ -6467,8 +6329,6 @@ Ethiopia,2018,Male,64.35
 Ethiopia,2019,Both sexes,66.597
 Ethiopia,2019,Female,68.536
 Ethiopia,2019,Male,64.694
-Ethiopia,2020,Female,68.905
-Ethiopia,2020,Male,65.036
 Europe,1990,Both sexes,72.808
 Europe,1990,Female,76.742
 Europe,1990,Male,68.771
@@ -6559,8 +6419,6 @@ Europe,2018,Male,75.07
 Europe,2019,Both sexes,78.587
 Europe,2019,Female,81.84
 Europe,2019,Male,75.263
-Europe,2020,Female,81.965
-Europe,2020,Male,75.447
 Europe and Northern America,1990,Female,77.282
 Europe and Northern America,1990,Male,69.61
 Europe and Northern America,1991,Female,77.365
@@ -6621,8 +6479,6 @@ Europe and Northern America,2018,Female,81.637
 Europe and Northern America,2018,Male,75.539
 Europe and Northern America,2019,Female,81.73899999999999
 Europe and Northern America,2019,Male,75.68
-Europe and Northern America,2020,Female,81.84100000000001
-Europe and Northern America,2020,Male,75.824
 "Europe, Western",1990,Female,79.449
 "Europe, Western",1990,Male,72.49
 "Europe, Western",1991,Female,79.666
@@ -6683,8 +6539,6 @@ Europe and Northern America,2020,Male,75.824
 "Europe, Western",2018,Male,79.296
 "Europe, Western",2019,Female,84.367
 "Europe, Western",2019,Male,79.469
-"Europe, Western",2020,Female,84.476
-"Europe, Western",2020,Male,79.65
 Faeroe Islands,1990,Both sexes,75.766
 Faeroe Islands,1991,Both sexes,75.916
 Faeroe Islands,1992,Both sexes,76.119
@@ -6835,8 +6689,6 @@ Fiji,2018,Male,65.641
 Fiji,2019,Both sexes,67.444
 Fiji,2019,Female,69.331
 Fiji,2019,Male,65.69800000000001
-Fiji,2020,Female,69.498
-Fiji,2020,Male,65.767
 Finland,1990,Both sexes,75.254
 Finland,1990,Female,79.11
 Finland,1990,Male,71.23100000000001
@@ -6927,8 +6779,6 @@ Finland,2018,Male,78.882
 Finland,2019,Both sexes,81.908
 Finland,2019,Female,84.71799999999999
 Finland,2019,Male,79.09100000000001
-Finland,2020,Female,84.848
-Finland,2020,Male,79.30199999999999
 France,1990,Both sexes,76.757
 France,1990,Female,80.90899999999999
 France,1990,Male,72.639
@@ -7019,8 +6869,6 @@ France,2018,Male,79.554
 France,2019,Both sexes,82.659
 France,2019,Female,85.486
 France,2019,Male,79.71600000000001
-France,2020,Female,85.569
-France,2020,Male,79.885
 French Guiana,1990,Both sexes,71.937
 French Guiana,1990,Female,75.25
 French Guiana,1990,Male,69.156
@@ -7111,8 +6959,6 @@ French Guiana,2018,Male,76.843
 French Guiana,2019,Both sexes,79.952
 French Guiana,2019,Female,83.064
 French Guiana,2019,Male,77.013
-French Guiana,2020,Female,83.132
-French Guiana,2020,Male,77.211
 French Polynesia,1990,Both sexes,68.704
 French Polynesia,1990,Female,71.092
 French Polynesia,1990,Male,66.673
@@ -7203,8 +7049,6 @@ French Polynesia,2018,Male,75.40100000000001
 French Polynesia,2019,Both sexes,77.657
 French Polynesia,2019,Female,79.898
 French Polynesia,2019,Male,75.612
-French Polynesia,2020,Female,80.058
-French Polynesia,2020,Male,75.807
 Gabon,1990,Both sexes,60.965
 Gabon,1990,Female,62.291
 Gabon,1990,Male,59.556
@@ -7295,8 +7139,6 @@ Gabon,2018,Male,64.152
 Gabon,2019,Both sexes,66.467
 Gabon,2019,Female,68.669
 Gabon,2019,Male,64.382
-Gabon,2020,Female,68.931
-Gabon,2020,Male,64.577
 Gambia,1990,Both sexes,52.221
 Gambia,1990,Female,53.538
 Gambia,1990,Male,51.015
@@ -7387,8 +7229,6 @@ Gambia,2018,Male,60.362
 Gambia,2019,Both sexes,62.05
 Gambia,2019,Female,63.481
 Gambia,2019,Male,60.656000000000006
-Gambia,2020,Female,63.827
-Gambia,2020,Male,60.969
 Georgia,1990,Both sexes,70.386
 Georgia,1990,Female,74.018
 Georgia,1990,Male,66.393
@@ -7479,8 +7319,6 @@ Georgia,2018,Male,69.17399999999999
 Georgia,2019,Both sexes,73.767
 Georgia,2019,Female,78.14
 Georgia,2019,Male,69.34899999999999
-Georgia,2020,Female,78.273
-Georgia,2020,Male,69.508
 Germany,1990,Both sexes,75.488
 Germany,1990,Female,78.556
 Germany,1990,Male,72.058
@@ -7571,8 +7409,6 @@ Germany,2018,Male,78.77199999999999
 Germany,2019,Both sexes,81.326
 Germany,2019,Female,83.728
 Germany,2019,Male,78.944
-Germany,2020,Female,83.84899999999999
-Germany,2020,Male,79.127
 Ghana,1990,Both sexes,56.776
 Ghana,1990,Female,57.88
 Ghana,1990,Male,55.677
@@ -7663,8 +7499,6 @@ Ghana,2018,Male,62.724
 Ghana,2019,Both sexes,64.074
 Ghana,2019,Female,65.17699999999999
 Ghana,2019,Male,62.99100000000001
-Ghana,2020,Female,65.477
-Ghana,2020,Male,63.238
 Gibraltar,1990,Both sexes,74.608
 Gibraltar,1991,Both sexes,74.69
 Gibraltar,1992,Both sexes,74.75
@@ -7785,8 +7619,6 @@ Greece,2018,Male,79.601
 Greece,2019,Both sexes,82.239
 Greece,2019,Female,84.67200000000001
 Greece,2019,Male,79.803
-Greece,2020,Female,84.796
-Greece,2020,Male,80.008
 Greenland,1990,Both sexes,64.447
 Greenland,1991,Both sexes,64.607
 Greenland,1992,Both sexes,64.725
@@ -7907,8 +7739,6 @@ Grenada,2018,Male,70.064
 Grenada,2019,Both sexes,72.397
 Grenada,2019,Female,74.953
 Grenada,2019,Male,70.07300000000001
-Grenada,2020,Female,74.984
-Grenada,2020,Male,70.097
 Guadeloupe,1990,Both sexes,73.718
 Guadeloupe,1990,Female,77.205
 Guadeloupe,1990,Male,70.229
@@ -7999,8 +7829,6 @@ Guadeloupe,2018,Male,78.23899999999999
 Guadeloupe,2019,Both sexes,82.138
 Guadeloupe,2019,Female,85.479
 Guadeloupe,2019,Male,78.468
-Guadeloupe,2020,Female,85.633
-Guadeloupe,2020,Male,78.684
 Guam,1990,Both sexes,71.925
 Guam,1990,Female,74.413
 Guam,1990,Male,69.788
@@ -8091,8 +7919,6 @@ Guam,2018,Male,76.607
 Guam,2019,Both sexes,80.074
 Guam,2019,Female,83.55
 Guam,2019,Male,76.828
-Guam,2020,Female,83.705
-Guam,2020,Male,77.054
 Guatemala,1990,Both sexes,62.261
 Guatemala,1990,Female,65.171
 Guatemala,1990,Male,59.495
@@ -8183,8 +8009,6 @@ Guatemala,2018,Male,71.119
 Guatemala,2019,Both sexes,74.302
 Guatemala,2019,Female,77.15100000000001
 Guatemala,2019,Male,71.382
-Guatemala,2020,Female,77.365
-Guatemala,2020,Male,71.623
 Guinea,1990,Both sexes,49.987
 Guinea,1990,Female,50.891000000000005
 Guinea,1990,Male,48.993
@@ -8275,8 +8099,6 @@ Guinea,2018,Male,60.477
 Guinea,2019,Both sexes,61.602
 Guinea,2019,Female,62.117
 Guinea,2019,Male,60.855
-Guinea,2020,Female,62.507
-Guinea,2020,Male,61.18
 Guinea-Bissau,1990,Both sexes,47.095
 Guinea-Bissau,1990,Female,50.013000000000005
 Guinea-Bissau,1990,Male,44.184
@@ -8367,8 +8189,6 @@ Guinea-Bissau,2018,Male,55.965
 Guinea-Bissau,2019,Both sexes,58.322
 Guinea-Bissau,2019,Female,60.213
 Guinea-Bissau,2019,Male,56.305
-Guinea-Bissau,2020,Female,60.524
-Guinea-Bissau,2020,Male,56.62
 Guyana,1990,Both sexes,63.287
 Guyana,1990,Female,66.889
 Guyana,1990,Male,60.008
@@ -8459,8 +8279,6 @@ Guyana,2018,Male,66.783
 Guyana,2019,Both sexes,69.906
 Guyana,2019,Female,73.095
 Guyana,2019,Male,66.92699999999999
-Guyana,2020,Female,73.219
-Guyana,2020,Male,67.042
 Haiti,1990,Both sexes,54.265
 Haiti,1990,Female,56.007
 Haiti,1990,Male,52.54
@@ -8551,8 +8369,6 @@ Haiti,2018,Male,61.5
 Haiti,2019,Both sexes,64.001
 Haiti,2019,Female,66.182
 Haiti,2019,Male,61.831
-Haiti,2020,Female,66.506
-Haiti,2020,Male,62.133
 High income countries,1990,Female,78.661
 High income countries,1990,Male,71.84
 High income countries,1991,Female,78.866
@@ -8613,8 +8429,6 @@ High income countries,2018,Female,83.56299999999999
 High income countries,2018,Male,78.304
 High income countries,2019,Female,83.65700000000001
 High income countries,2019,Male,78.431
-High income countries,2020,Female,83.75299999999999
-High income countries,2020,Male,78.564
 Honduras,1990,Both sexes,66.723
 Honduras,1990,Female,69.017
 Honduras,1990,Male,64.469
@@ -8705,8 +8519,6 @@ Honduras,2018,Male,72.771
 Honduras,2019,Both sexes,75.27
 Honduras,2019,Female,77.551
 Honduras,2019,Male,72.96
-Honduras,2020,Female,77.723
-Honduras,2020,Male,73.142
 Hong Kong,1990,Both sexes,77.455
 Hong Kong,1990,Female,80.283
 Hong Kong,1990,Male,74.714
@@ -8797,8 +8609,6 @@ Hong Kong,2018,Male,81.80199999999999
 Hong Kong,2019,Both sexes,84.857
 Hong Kong,2019,Female,87.74700000000001
 Hong Kong,2019,Male,81.971
-Hong Kong,2020,Female,87.889
-Hong Kong,2020,Male,82.11399999999999
 Hungary,1990,Both sexes,69.328
 Hungary,1990,Female,73.801
 Hungary,1990,Male,65.056
@@ -8889,8 +8699,6 @@ Hungary,2018,Male,73.056
 Hungary,2019,Both sexes,76.875
 Hungary,2019,Female,80.289
 Hungary,2019,Male,73.244
-Hungary,2020,Female,80.42699999999999
-Hungary,2020,Male,73.415
 Iceland,1990,Both sexes,78.078
 Iceland,1990,Female,80.476
 Iceland,1990,Male,75.732
@@ -8981,8 +8789,6 @@ Iceland,2018,Male,81.339
 Iceland,2019,Both sexes,82.993
 Iceland,2019,Female,84.485
 Iceland,2019,Male,81.502
-Iceland,2020,Female,84.601
-Iceland,2020,Male,81.676
 India,1990,Both sexes,57.865
 India,1990,Female,58.226000000000006
 India,1990,Male,57.536
@@ -9073,8 +8879,6 @@ India,2018,Male,68.23899999999999
 India,2019,Both sexes,69.656
 India,2019,Female,70.95
 India,2019,Male,68.464
-India,2020,Female,71.202
-India,2020,Male,68.678
 Indonesia,1990,Both sexes,62.32
 Indonesia,1990,Female,63.727
 Indonesia,1990,Male,60.941
@@ -9165,8 +8969,6 @@ Indonesia,2018,Male,69.375
 Indonesia,2019,Both sexes,71.716
 Indonesia,2019,Female,73.967
 Indonesia,2019,Male,69.572
-Indonesia,2020,Female,74.173
-Indonesia,2020,Male,69.75
 Iran,1990,Both sexes,63.837
 Iran,1990,Female,66.259
 Iran,1990,Male,61.654
@@ -9257,8 +9059,6 @@ Iran,2018,Male,75.40899999999999
 Iran,2019,Both sexes,76.677
 Iran,2019,Female,77.885
 Iran,2019,Male,75.593
-Iran,2020,Female,78.08800000000001
-Iran,2020,Male,75.775
 Iraq,1990,Both sexes,66.011
 Iraq,1990,Female,69.483
 Iraq,1990,Male,62.735
@@ -9349,8 +9149,6 @@ Iraq,2018,Male,68.429
 Iraq,2019,Both sexes,70.604
 Iraq,2019,Female,72.652
 Iraq,2019,Male,68.565
-Iraq,2020,Female,72.815
-Iraq,2020,Male,68.691
 Ireland,1990,Both sexes,74.809
 Ireland,1990,Female,77.703
 Ireland,1990,Male,72.053
@@ -9441,8 +9239,6 @@ Ireland,2018,Male,80.43
 Ireland,2019,Both sexes,82.305
 Ireland,2019,Female,83.90899999999999
 Ireland,2019,Male,80.667
-Ireland,2020,Female,84.053
-Ireland,2020,Male,80.875
 Isle of Man,1990,Both sexes,75.773
 Isle of Man,1991,Both sexes,75.987
 Isle of Man,1992,Both sexes,76.195
@@ -9563,8 +9359,6 @@ Israel,2018,Male,81.138
 Israel,2019,Both sexes,82.972
 Israel,2019,Female,84.505
 Israel,2019,Male,81.331
-Israel,2020,Female,84.62200000000001
-Israel,2020,Male,81.521
 Italy,1990,Both sexes,76.942
 Italy,1990,Female,80.189
 Italy,1990,Male,73.613
@@ -9655,8 +9449,6 @@ Italy,2018,Male,81.13
 Italy,2019,Both sexes,83.512
 Italy,2019,Female,85.539
 Italy,2019,Male,81.325
-Italy,2020,Female,85.665
-Italy,2020,Male,81.506
 Jamaica,1990,Both sexes,73.204
 Jamaica,1990,Female,74.046
 Jamaica,1990,Male,72.365
@@ -9747,8 +9539,6 @@ Jamaica,2018,Male,72.78699999999999
 Jamaica,2019,Both sexes,74.475
 Jamaica,2019,Female,76.118
 Jamaica,2019,Male,72.868
-Jamaica,2020,Female,76.249
-Jamaica,2020,Male,72.95100000000001
 Japan,1990,Both sexes,79.004
 Japan,1990,Female,81.888
 Japan,1990,Male,75.943
@@ -9839,8 +9629,6 @@ Japan,2018,Male,81.329
 Japan,2019,Both sexes,84.629
 Japan,2019,Female,87.669
 Japan,2019,Male,81.497
-Japan,2020,Female,87.80799999999999
-Japan,2020,Male,81.641
 Jordan,1990,Both sexes,69.872
 Jordan,1990,Female,71.355
 Jordan,1990,Male,68.555
@@ -9931,8 +9719,6 @@ Jordan,2018,Male,72.73
 Jordan,2019,Both sexes,74.526
 Jordan,2019,Female,76.306
 Jordan,2019,Male,72.839
-Jordan,2020,Female,76.445
-Jordan,2020,Male,72.956
 Kazakhstan,1990,Both sexes,66.776
 Kazakhstan,1990,Female,71.46600000000001
 Kazakhstan,1990,Male,61.828
@@ -10023,8 +9809,6 @@ Kazakhstan,2018,Male,68.845
 Kazakhstan,2019,Both sexes,73.597
 Kazakhstan,2019,Female,77.669
 Kazakhstan,2019,Male,69.23
-Kazakhstan,2020,Female,77.875
-Kazakhstan,2020,Male,69.472
 Kenya,1990,Both sexes,57.406
 Kenya,1990,Female,59.88
 Kenya,1990,Male,55.095
@@ -10115,8 +9899,6 @@ Kenya,2018,Male,63.965
 Kenya,2019,Both sexes,66.699
 Kenya,2019,Female,69.04899999999999
 Kenya,2019,Male,64.313
-Kenya,2020,Female,69.352
-Kenya,2020,Male,64.595
 Kiribati,1990,Both sexes,59.636
 Kiribati,1990,Female,62.11600000000001
 Kiribati,1990,Male,57.201
@@ -10207,8 +9989,6 @@ Kiribati,2018,Male,64.001
 Kiribati,2019,Both sexes,68.369
 Kiribati,2019,Female,72.342
 Kiribati,2019,Male,64.248
-Kiribati,2020,Female,72.568
-Kiribati,2020,Male,64.48
 Kuwait,1990,Both sexes,72.15
 Kuwait,1990,Female,73.417
 Kuwait,1990,Male,71.384
@@ -10299,8 +10079,6 @@ Kuwait,2018,Male,74.672
 Kuwait,2019,Both sexes,75.489
 Kuwait,2019,Female,76.58
 Kuwait,2019,Male,74.76
-Kuwait,2020,Female,76.706
-Kuwait,2020,Male,74.851
 Kyrgyzstan,1990,Both sexes,66.337
 Kyrgyzstan,1990,Female,70.166
 Kyrgyzstan,1990,Male,62.277
@@ -10391,8 +10169,6 @@ Kyrgyzstan,2018,Male,67.333
 Kyrgyzstan,2019,Both sexes,71.45
 Kyrgyzstan,2019,Female,75.60300000000001
 Kyrgyzstan,2019,Male,67.437
-Kyrgyzstan,2020,Female,75.73100000000001
-Kyrgyzstan,2020,Male,67.54899999999999
 Land-locked Developing Countries (LLDC),1990,Female,54.19
 Land-locked Developing Countries (LLDC),1990,Male,49.992
 Land-locked Developing Countries (LLDC),1991,Female,54.087
@@ -10453,8 +10229,6 @@ Land-locked Developing Countries (LLDC),2018,Female,67.596
 Land-locked Developing Countries (LLDC),2018,Male,63.245
 Land-locked Developing Countries (LLDC),2019,Female,67.935
 Land-locked Developing Countries (LLDC),2019,Male,63.545
-Land-locked Developing Countries (LLDC),2020,Female,68.248
-Land-locked Developing Countries (LLDC),2020,Male,63.822
 Laos,1990,Both sexes,53.364
 Laos,1990,Female,54.779
 Laos,1990,Male,51.948
@@ -10545,8 +10319,6 @@ Laos,2018,Male,65.83800000000001
 Laos,2019,Both sexes,67.923
 Laos,2019,Female,69.74600000000001
 Laos,2019,Male,66.142
-Laos,2020,Female,70.061
-Laos,2020,Male,66.425
 Latin America and the Caribbean,1990,Both sexes,68.065
 Latin America and the Caribbean,1990,Female,71.291
 Latin America and the Caribbean,1990,Male,64.967
@@ -10637,8 +10409,6 @@ Latin America and the Caribbean,2018,Male,72.117
 Latin America and the Caribbean,2019,Both sexes,75.486
 Latin America and the Caribbean,2019,Female,78.7
 Latin America and the Caribbean,2019,Male,72.291
-Latin America and the Caribbean,2020,Female,78.842
-Latin America and the Caribbean,2020,Male,72.472
 Latvia,1990,Both sexes,69.053
 Latvia,1990,Female,74.225
 Latvia,1990,Male,63.71
@@ -10729,8 +10499,6 @@ Latvia,2018,Male,70.094
 Latvia,2019,Both sexes,75.292
 Latvia,2019,Female,80.012
 Latvia,2019,Male,70.233
-Latvia,2020,Female,80.124
-Latvia,2020,Male,70.38600000000001
 Least Developed Countries,1990,Female,52.50899999999999
 Least Developed Countries,1990,Male,49.769
 Least Developed Countries,1991,Female,52.706
@@ -10791,8 +10559,6 @@ Least Developed Countries,2018,Female,66.706
 Least Developed Countries,2018,Male,62.982
 Least Developed Countries,2019,Female,67.047
 Least Developed Countries,2019,Male,63.285
-Least Developed Countries,2020,Female,67.363
-Least Developed Countries,2020,Male,63.567
 Lebanon,1990,Both sexes,70.266
 Lebanon,1990,Female,71.811
 Lebanon,1990,Male,68.707
@@ -10883,8 +10649,6 @@ Lebanon,2018,Male,77.07600000000001
 Lebanon,2019,Both sexes,78.93
 Lebanon,2019,Female,80.869
 Lebanon,2019,Male,77.14
-Lebanon,2020,Female,80.934
-Lebanon,2020,Male,77.22399999999999
 Lesotho,1990,Both sexes,59.837
 Lesotho,1990,Female,63.935
 Lesotho,1990,Male,54.777
@@ -10975,8 +10739,6 @@ Lesotho,2018,Male,50.582
 Lesotho,2019,Both sexes,54.331
 Lesotho,2019,Female,57.58
 Lesotho,2019,Male,51.201
-Lesotho,2020,Female,58.087
-Lesotho,2020,Male,51.703
 Less Developed Regions,1990,Female,63.681
 Less Developed Regions,1990,Male,60.356
 Less Developed Regions,1991,Female,63.943000000000005
@@ -11037,8 +10799,6 @@ Less Developed Regions,2018,Female,72.99600000000001
 Less Developed Regions,2018,Male,68.741
 Less Developed Regions,2019,Female,73.225
 Less Developed Regions,2019,Male,68.958
-Less Developed Regions,2020,Female,73.437
-Less Developed Regions,2020,Male,69.157
 "Less Developed Regions, excluding China",1990,Female,61.269
 "Less Developed Regions, excluding China",1990,Male,57.913
 "Less Developed Regions, excluding China",1991,Female,61.587
@@ -11099,8 +10859,6 @@ Less Developed Regions,2020,Male,69.157
 "Less Developed Regions, excluding China",2018,Male,67.172
 "Less Developed Regions, excluding China",2019,Female,71.568
 "Less Developed Regions, excluding China",2019,Male,67.399
-"Less Developed Regions, excluding China",2020,Female,71.796
-"Less Developed Regions, excluding China",2020,Male,67.612
 "Less Developed Regions, excluding Least Developed Countries",1990,Female,65.69800000000001
 "Less Developed Regions, excluding Least Developed Countries",1990,Male,62.236
 "Less Developed Regions, excluding Least Developed Countries",1991,Female,65.993
@@ -11161,8 +10919,6 @@ Less Developed Regions,2020,Male,69.157
 "Less Developed Regions, excluding Least Developed Countries",2018,Male,69.965
 "Less Developed Regions, excluding Least Developed Countries",2019,Female,74.487
 "Less Developed Regions, excluding Least Developed Countries",2019,Male,70.171
-"Less Developed Regions, excluding Least Developed Countries",2020,Female,74.681
-"Less Developed Regions, excluding Least Developed Countries",2020,Male,70.359
 Liberia,1990,Both sexes,46.046
 Liberia,1990,Female,47.85
 Liberia,1990,Male,44.31
@@ -11253,8 +11009,6 @@ Liberia,2018,Male,62.347
 Liberia,2019,Both sexes,64.104
 Liberia,2019,Female,65.497
 Liberia,2019,Male,62.715
-Liberia,2020,Female,65.831
-Liberia,2020,Male,63.02
 Libya,1990,Both sexes,68.503
 Libya,1990,Female,70.35
 Libya,1990,Male,66.952
@@ -11345,8 +11099,6 @@ Libya,2018,Male,69.895
 Libya,2019,Both sexes,72.913
 Libya,2019,Female,75.95100000000001
 Libya,2019,Male,70.097
-Libya,2020,Female,76.105
-Libya,2020,Male,70.271
 Liechtenstein,1990,Both sexes,76.101
 Liechtenstein,1991,Both sexes,76.298
 Liechtenstein,1992,Both sexes,76.48
@@ -11467,8 +11219,6 @@ Lithuania,2018,Male,70.081
 Lithuania,2019,Both sexes,75.933
 Lithuania,2019,Female,81.37100000000001
 Lithuania,2019,Male,70.294
-Lithuania,2020,Female,81.514
-Lithuania,2020,Male,70.498
 Low-income countries,1990,Female,51.879
 Low-income countries,1990,Male,48.551
 Low-income countries,1991,Female,51.96
@@ -11529,8 +11279,6 @@ Low-income countries,2018,Female,65.601
 Low-income countries,2018,Male,61.659
 Low-income countries,2019,Female,65.952
 Low-income countries,2019,Male,62.011
-Low-income countries,2020,Female,66.28
-Low-income countries,2020,Male,62.341
 Lower-middle-income countries,1990,Female,60.111
 Lower-middle-income countries,1990,Male,57.575
 Lower-middle-income countries,1991,Female,60.475
@@ -11591,8 +11339,6 @@ Lower-middle-income countries,2018,Female,70.081
 Lower-middle-income countries,2018,Male,66.48100000000001
 Lower-middle-income countries,2019,Female,70.315
 Lower-middle-income countries,2019,Male,66.688
-Lower-middle-income countries,2020,Female,70.539
-Lower-middle-income countries,2020,Male,66.882
 Luxembourg,1990,Both sexes,75.159
 Luxembourg,1990,Female,78.71
 Luxembourg,1990,Male,71.487
@@ -11683,8 +11429,6 @@ Luxembourg,2018,Male,79.971
 Luxembourg,2019,Both sexes,82.25
 Luxembourg,2019,Female,84.346
 Luxembourg,2019,Male,80.157
-Luxembourg,2020,Female,84.464
-Luxembourg,2020,Male,80.348
 Macao,1990,Both sexes,77.296
 Macao,1990,Female,79.528
 Macao,1990,Male,74.90899999999999
@@ -11775,8 +11519,6 @@ Macao,2018,Male,81.149
 Macao,2019,Both sexes,84.244
 Macao,2019,Female,87.179
 Macao,2019,Male,81.281
-Macao,2020,Female,87.307
-Macao,2020,Male,81.41199999999999
 Madagascar,1990,Both sexes,51.003
 Madagascar,1990,Female,52.243
 Madagascar,1990,Male,49.832
@@ -11867,8 +11609,6 @@ Madagascar,2018,Male,65.077
 Madagascar,2019,Both sexes,67.041
 Madagascar,2019,Female,68.682
 Madagascar,2019,Male,65.417
-Madagascar,2020,Female,69.051
-Madagascar,2020,Male,65.749
 Malawi,1990,Both sexes,46.096
 Malawi,1990,Female,48.243
 Malawi,1990,Male,44.05
@@ -11959,8 +11699,6 @@ Malawi,2018,Male,60.651
 Malawi,2019,Both sexes,64.263
 Malawi,2019,Female,67.413
 Malawi,2019,Male,61.101000000000006
-Malawi,2020,Female,67.85
-Malawi,2020,Male,61.524
 Malaysia,1990,Both sexes,70.865
 Malaysia,1990,Female,72.858
 Malaysia,1990,Male,69.017
@@ -12051,8 +11789,6 @@ Malaysia,2018,Male,74.075
 Malaysia,2019,Both sexes,76.156
 Malaysia,2019,Female,78.317
 Malaysia,2019,Male,74.234
-Malaysia,2020,Female,78.458
-Malaysia,2020,Male,74.381
 Maldives,1990,Both sexes,61.529
 Maldives,1990,Female,61.251000000000005
 Maldives,1990,Male,61.819
@@ -12143,8 +11879,6 @@ Maldives,2018,Male,77.229
 Maldives,2019,Both sexes,78.921
 Maldives,2019,Female,80.779
 Maldives,2019,Male,77.523
-Maldives,2020,Female,81.036
-Maldives,2020,Male,77.816
 Mali,1990,Both sexes,45.746
 Mali,1990,Female,46.473
 Mali,1990,Male,45.026
@@ -12235,8 +11969,6 @@ Mali,2018,Male,58.137
 Mali,2019,Both sexes,59.306
 Mali,2019,Female,60.085
 Mali,2019,Male,58.529
-Mali,2020,Female,60.492
-Mali,2020,Male,58.894
 Malta,1990,Both sexes,76.912
 Malta,1990,Female,79.11399999999999
 Malta,1990,Male,74.569
@@ -12327,8 +12059,6 @@ Malta,2018,Male,80.51
 Malta,2019,Both sexes,82.53
 Malta,2019,Female,84.26299999999999
 Malta,2019,Male,80.699
-Malta,2020,Female,84.385
-Malta,2020,Male,80.891
 Marshall Islands,1990,Both sexes,63.004
 Marshall Islands,1991,Both sexes,63.557
 Marshall Islands,1992,Both sexes,64.141
@@ -12449,8 +12179,6 @@ Martinique,2018,Male,78.995
 Martinique,2019,Both sexes,82.545
 Martinique,2019,Female,85.617
 Martinique,2019,Male,79.199
-Martinique,2020,Female,85.76700000000001
-Martinique,2020,Male,79.395
 Mauritania,1990,Both sexes,59.688
 Mauritania,1990,Female,61.215
 Mauritania,1990,Male,58.125
@@ -12541,8 +12269,6 @@ Mauritania,2018,Male,63.082
 Mauritania,2019,Both sexes,64.925
 Mauritania,2019,Female,66.515
 Mauritania,2019,Male,63.305
-Mauritania,2020,Female,66.73100000000001
-Mauritania,2020,Male,63.5
 Mauritius,1990,Both sexes,69.425
 Mauritius,1990,Female,73.327
 Mauritius,1990,Male,65.695
@@ -12633,8 +12359,6 @@ Mauritius,2018,Male,71.506
 Mauritius,2019,Both sexes,74.991
 Mauritius,2019,Female,78.458
 Mauritius,2019,Male,71.652
-Mauritius,2020,Female,78.577
-Mauritius,2020,Male,71.805
 Mayotte,1990,Both sexes,72.141
 Mayotte,1990,Female,76.667
 Mayotte,1990,Male,68.684
@@ -12725,8 +12449,6 @@ Mayotte,2018,Male,76.12
 Mayotte,2019,Both sexes,79.455
 Mayotte,2019,Female,82.973
 Mayotte,2019,Male,76.163
-Mayotte,2020,Female,83.01899999999999
-Mayotte,2020,Male,76.244
 Melanesia,1990,Female,59.93899999999999
 Melanesia,1990,Male,57.002
 Melanesia,1991,Female,60.214
@@ -12787,8 +12509,6 @@ Melanesia,2018,Female,66.926
 Melanesia,2018,Male,64.158
 Melanesia,2019,Female,67.16199999999999
 Melanesia,2019,Male,64.367
-Melanesia,2020,Female,67.393
-Melanesia,2020,Male,64.557
 Mexico,1990,Both sexes,70.866
 Mexico,1990,Female,73.83
 Mexico,1990,Male,67.95100000000001
@@ -12879,8 +12599,6 @@ Mexico,2018,Male,72.118
 Mexico,2019,Both sexes,75.054
 Mexico,2019,Female,77.87899999999999
 Mexico,2019,Male,72.203
-Mexico,2020,Female,77.934
-Mexico,2020,Male,72.30199999999999
 Micronesia (country),1990,Both sexes,63.605
 Micronesia (country),1990,Female,65.096
 Micronesia (country),1990,Male,62.269
@@ -12971,8 +12689,6 @@ Micronesia (country),2018,Male,66.117
 Micronesia (country),2019,Both sexes,67.883
 Micronesia (country),2019,Female,69.596
 Micronesia (country),2019,Male,66.232
-Micronesia (country),2020,Female,69.735
-Micronesia (country),2020,Male,66.335
 Middle Africa,1990,Female,50.75
 Middle Africa,1990,Male,47.622
 Middle Africa,1991,Female,50.779
@@ -13033,8 +12749,6 @@ Middle Africa,2018,Female,61.26
 Middle Africa,2018,Male,57.824
 Middle Africa,2019,Female,61.611
 Middle Africa,2019,Male,58.147
-Middle Africa,2020,Female,61.933
-Middle Africa,2020,Male,58.442
 Middle-income countries,1990,Female,65.275
 Middle-income countries,1990,Male,61.445
 Middle-income countries,1991,Female,65.524
@@ -13095,8 +12809,6 @@ Middle-income countries,2018,Female,73.869
 Middle-income countries,2018,Male,69.318
 Middle-income countries,2019,Female,74.081
 Middle-income countries,2019,Male,69.523
-Middle-income countries,2020,Female,74.27600000000001
-Middle-income countries,2020,Male,69.711
 Moldova,1990,Both sexes,67.643
 Moldova,1990,Female,71.003
 Moldova,1990,Male,64.092
@@ -13187,8 +12899,6 @@ Moldova,2018,Male,67.53
 Moldova,2019,Both sexes,71.901
 Moldova,2019,Female,76.157
 Moldova,2019,Male,67.624
-Moldova,2020,Female,76.253
-Moldova,2020,Male,67.72800000000001
 Monaco,1990,Both sexes,77.162
 Monaco,1991,Both sexes,77.313
 Monaco,1992,Both sexes,77.454
@@ -13309,8 +13019,6 @@ Mongolia,2018,Male,65.631
 Mongolia,2019,Both sexes,69.87
 Mongolia,2019,Female,74.142
 Mongolia,2019,Male,65.79899999999999
-Mongolia,2020,Female,74.32600000000001
-Mongolia,2020,Male,65.973
 Montenegro,1990,Both sexes,74.627
 Montenegro,1990,Female,77.74600000000001
 Montenegro,1990,Male,71.298
@@ -13401,8 +13109,6 @@ Montenegro,2018,Male,74.317
 Montenegro,2019,Both sexes,76.884
 Montenegro,2019,Female,79.303
 Montenegro,2019,Male,74.441
-Montenegro,2020,Female,79.422
-Montenegro,2020,Male,74.582
 Montserrat,1990,Both sexes,73.367
 Montserrat,1991,Both sexes,73.658
 Montserrat,1992,Both sexes,73.851
@@ -13493,8 +13199,6 @@ More Developed Regions,2018,Female,82.34899999999999
 More Developed Regions,2018,Male,76.253
 More Developed Regions,2019,Female,82.456
 More Developed Regions,2019,Male,76.395
-More Developed Regions,2020,Female,82.56200000000001
-More Developed Regions,2020,Male,76.53699999999999
 Morocco,1990,Both sexes,64.732
 Morocco,1990,Female,66.318
 Morocco,1990,Male,63.118
@@ -13585,8 +13289,6 @@ Morocco,2018,Male,75.19
 Morocco,2019,Both sexes,76.68
 Morocco,2019,Female,77.895
 Morocco,2019,Male,75.423
-Morocco,2020,Female,78.118
-Morocco,2020,Male,75.646
 Mozambique,1990,Both sexes,45.261
 Mozambique,1990,Female,46.838
 Mozambique,1990,Male,43.606
@@ -13677,8 +13379,6 @@ Mozambique,2018,Male,57.114
 Mozambique,2019,Both sexes,60.854
 Mozambique,2019,Female,63.67100000000001
 Mozambique,2019,Male,57.782
-Mozambique,2020,Female,64.211
-Mozambique,2020,Male,58.302
 Myanmar,1990,Both sexes,56.849
 Myanmar,1990,Female,60.197
 Myanmar,1990,Male,53.609
@@ -13769,8 +13469,6 @@ Myanmar,2018,Male,63.761
 Myanmar,2019,Both sexes,67.134
 Myanmar,2019,Female,70.119
 Myanmar,2019,Male,64.046
-Myanmar,2020,Female,70.342
-Myanmar,2020,Male,64.27600000000001
 Namibia,1990,Both sexes,61.608
 Namibia,1990,Female,64.495
 Namibia,1990,Male,58.596
@@ -13861,8 +13559,6 @@ Namibia,2018,Male,60.357
 Namibia,2019,Both sexes,63.708
 Namibia,2019,Female,66.516
 Namibia,2019,Male,60.685
-Namibia,2020,Female,66.85300000000001
-Namibia,2020,Male,61.016000000000005
 Nauru,1990,Both sexes,57.296
 Nauru,1991,Both sexes,57.551
 Nauru,1992,Both sexes,57.773
@@ -13983,8 +13679,6 @@ Nepal,2018,Male,68.98899999999999
 Nepal,2019,Both sexes,70.778
 Nepal,2019,Female,72.208
 Nepal,2019,Male,69.259
-Nepal,2020,Female,72.51
-Nepal,2020,Male,69.521
 Netherlands,1990,Both sexes,76.993
 Netherlands,1990,Female,80.069
 Netherlands,1990,Male,73.824
@@ -14075,8 +13769,6 @@ Netherlands,2018,Male,80.419
 Netherlands,2019,Both sexes,82.283
 Netherlands,2019,Female,83.95200000000001
 Netherlands,2019,Male,80.592
-Netherlands,2020,Female,84.066
-Netherlands,2020,Male,80.766
 New Caledonia,1990,Both sexes,70.696
 New Caledonia,1990,Female,73.793
 New Caledonia,1990,Male,68.054
@@ -14167,8 +13859,6 @@ New Caledonia,2018,Male,74.762
 New Caledonia,2019,Both sexes,77.55
 New Caledonia,2019,Female,80.388
 New Caledonia,2019,Male,74.95
-New Caledonia,2020,Female,80.536
-New Caledonia,2020,Male,75.138
 New Zealand,1990,Both sexes,75.36
 New Zealand,1990,Female,78.32
 New Zealand,1990,Male,72.415
@@ -14259,8 +13949,6 @@ New Zealand,2018,Male,80.404
 New Zealand,2019,Both sexes,82.288
 New Zealand,2019,Female,83.98100000000001
 New Zealand,2019,Male,80.571
-New Zealand,2020,Female,84.09899999999999
-New Zealand,2020,Male,80.744
 Nicaragua,1990,Both sexes,64.293
 Nicaragua,1990,Female,67.354
 Nicaragua,1990,Male,61.309
@@ -14351,8 +14039,6 @@ Nicaragua,2018,Male,70.741
 Nicaragua,2019,Both sexes,74.485
 Nicaragua,2019,Female,77.982
 Nicaragua,2019,Male,70.944
-Nicaragua,2020,Female,78.185
-Nicaragua,2020,Male,71.161
 Niger,1990,Both sexes,43.538
 Niger,1990,Female,44.216
 Niger,1990,Male,42.835
@@ -14443,8 +14129,6 @@ Niger,2018,Male,60.9
 Niger,2019,Both sexes,62.42
 Niger,2019,Female,63.621
 Niger,2019,Male,61.281000000000006
-Niger,2020,Female,64.01
-Niger,2020,Male,61.636
 Nigeria,1990,Both sexes,45.9
 Nigeria,1990,Female,47.191
 Nigeria,1990,Male,44.67100000000001
@@ -14535,8 +14219,6 @@ Nigeria,2018,Male,53.45
 Nigeria,2019,Both sexes,54.687
 Nigeria,2019,Female,55.619
 Nigeria,2019,Male,53.789
-Nigeria,2020,Female,55.969
-Nigeria,2020,Male,54.104
 Niue,1990,Both sexes,68.439
 Niue,1991,Both sexes,68.645
 Niue,1992,Both sexes,68.857
@@ -14627,8 +14309,6 @@ No income group available,2018,Female,82.652
 No income group available,2018,Male,76.165
 No income group available,2019,Female,82.815
 No income group available,2019,Male,76.376
-No income group available,2020,Female,82.98100000000001
-No income group available,2020,Male,76.595
 North Korea,1990,Both sexes,69.896
 North Korea,1990,Female,72.859
 North Korea,1990,Male,65.997
@@ -14719,8 +14399,6 @@ North Korea,2018,Male,68.435
 North Korea,2019,Both sexes,72.274
 North Korea,2019,Female,75.744
 North Korea,2019,Male,68.615
-North Korea,2020,Female,75.932
-North Korea,2020,Male,68.798
 North Macedonia,1990,Both sexes,71.152
 North Macedonia,1990,Female,73.158
 North Macedonia,1990,Male,69.233
@@ -14811,8 +14489,6 @@ North Macedonia,2018,Male,73.684
 North Macedonia,2019,Both sexes,75.797
 North Macedonia,2019,Female,77.846
 North Macedonia,2019,Male,73.794
-North Macedonia,2020,Female,77.968
-North Macedonia,2020,Male,73.915
 Northern Africa,1990,Female,65.794
 Northern Africa,1990,Male,61.911
 Northern Africa,1991,Female,66.169
@@ -14873,8 +14549,6 @@ Northern Africa,2018,Female,74.281
 Northern Africa,2018,Male,70.523
 Northern Africa,2019,Female,74.485
 Northern Africa,2019,Male,70.69800000000001
-Northern Africa,2020,Female,74.683
-Northern Africa,2020,Male,70.868
 Northern Africa and Western Asia,1990,Female,67.572
 Northern Africa and Western Asia,1990,Male,62.772
 Northern Africa and Western Asia,1991,Female,67.96
@@ -14935,8 +14609,6 @@ Northern Africa and Western Asia,2018,Female,75.825
 Northern Africa and Western Asia,2018,Male,71.417
 Northern Africa and Western Asia,2019,Female,76.013
 Northern Africa and Western Asia,2019,Male,71.649
-Northern Africa and Western Asia,2020,Female,76.194
-Northern Africa and Western Asia,2020,Male,71.875
 Northern America,1990,Both sexes,75.44
 Northern America,1990,Female,78.882
 Northern America,1990,Male,71.97
@@ -15027,8 +14699,6 @@ Northern America,2018,Male,76.737
 Northern America,2019,Both sexes,79.221
 Northern America,2019,Female,81.71
 Northern America,2019,Male,76.755
-Northern America,2020,Female,81.762
-Northern America,2020,Male,76.804
 Northern Europe,1990,Female,78.343
 Northern Europe,1990,Male,72.155
 Northern Europe,1991,Female,78.487
@@ -15089,8 +14759,6 @@ Northern Europe,2018,Female,83.126
 Northern Europe,2018,Male,79.059
 Northern Europe,2019,Female,83.20700000000001
 Northern Europe,2019,Male,79.215
-Northern Europe,2020,Female,83.296
-Northern Europe,2020,Male,79.387
 Northern Mariana Islands,1990,Both sexes,69.971
 Northern Mariana Islands,1991,Both sexes,70.111
 Northern Mariana Islands,1992,Both sexes,70.353
@@ -15211,8 +14879,6 @@ Norway,2018,Male,80.28699999999999
 Norway,2019,Both sexes,82.404
 Norway,2019,Female,84.37700000000001
 Norway,2019,Male,80.447
-Norway,2020,Female,84.49
-Norway,2020,Male,80.622
 Oceania,1990,Both sexes,71.835
 Oceania,1990,Female,74.704
 Oceania,1990,Male,69.056
@@ -15303,8 +14969,6 @@ Oceania,2018,Male,76.564
 Oceania,2019,Both sexes,78.71
 Oceania,2019,Female,80.709
 Oceania,2019,Male,76.75
-Oceania,2020,Female,80.874
-Oceania,2020,Male,76.925
 Oceania (excluding Australia and New Zealand),1990,Female,61.081
 Oceania (excluding Australia and New Zealand),1990,Male,58.034
 Oceania (excluding Australia and New Zealand),1991,Female,61.353
@@ -15365,8 +15029,6 @@ Oceania (excluding Australia and New Zealand),2018,Female,67.934
 Oceania (excluding Australia and New Zealand),2018,Male,64.942
 Oceania (excluding Australia and New Zealand),2019,Female,68.17
 Oceania (excluding Australia and New Zealand),2019,Male,65.14399999999999
-Oceania (excluding Australia and New Zealand),2020,Female,68.399
-Oceania (excluding Australia and New Zealand),2020,Male,65.33
 Oman,1990,Both sexes,67.18
 Oman,1990,Female,69.23100000000001
 Oman,1990,Male,65.39699999999999
@@ -15457,8 +15119,6 @@ Oman,2018,Male,75.89
 Oman,2019,Both sexes,77.861
 Oman,2019,Female,80.343
 Oman,2019,Male,76.127
-Oman,2020,Female,80.53399999999999
-Oman,2020,Male,76.357
 Pakistan,1990,Both sexes,60.1
 Pakistan,1990,Female,60.856
 Pakistan,1990,Male,59.472
@@ -15549,8 +15209,6 @@ Pakistan,2018,Male,66.194
 Pakistan,2019,Both sexes,67.273
 Pakistan,2019,Female,68.28699999999999
 Pakistan,2019,Male,66.337
-Pakistan,2020,Female,68.464
-Pakistan,2020,Male,66.471
 Palau,1990,Both sexes,65.493
 Palau,1991,Both sexes,65.959
 Palau,1992,Both sexes,66.377
@@ -15671,8 +15329,6 @@ Palestine,2018,Male,72.263
 Palestine,2019,Both sexes,74.053
 Palestine,2019,Female,75.755
 Palestine,2019,Male,72.416
-Palestine,2020,Female,75.92399999999999
-Palestine,2020,Male,72.565
 Panama,1990,Both sexes,72.982
 Panama,1990,Female,76.018
 Panama,1990,Male,70.205
@@ -15763,8 +15419,6 @@ Panama,2018,Male,75.235
 Panama,2019,Both sexes,78.506
 Panama,2019,Female,81.756
 Panama,2019,Male,75.421
-Panama,2020,Female,81.90100000000001
-Panama,2020,Male,75.616
 Papua New Guinea,1990,Both sexes,56.492
 Papua New Guinea,1990,Female,58.047
 Papua New Guinea,1990,Male,55.093
@@ -15855,8 +15509,6 @@ Papua New Guinea,2018,Male,63.039
 Papua New Guinea,2019,Both sexes,64.501
 Papua New Guinea,2019,Female,65.82
 Papua New Guinea,2019,Male,63.271
-Papua New Guinea,2020,Female,66.058
-Papua New Guinea,2020,Male,63.482
 Paraguay,1990,Both sexes,68.545
 Paraguay,1990,Female,70.57600000000001
 Paraguay,1990,Male,66.594
@@ -15947,8 +15599,6 @@ Paraguay,2018,Male,72.15899999999999
 Paraguay,2019,Both sexes,74.254
 Paraguay,2019,Female,76.396
 Paraguay,2019,Male,72.263
-Paraguay,2020,Female,76.524
-Paraguay,2020,Male,72.35600000000001
 Peru,1990,Both sexes,66.165
 Peru,1990,Female,68.372
 Peru,1990,Male,63.984
@@ -16039,8 +15689,6 @@ Peru,2018,Male,73.834
 Peru,2019,Both sexes,76.736
 Peru,2019,Female,79.507
 Peru,2019,Male,74.06
-Peru,2020,Female,79.714
-Peru,2020,Male,74.288
 Philippines,1990,Both sexes,66.366
 Philippines,1990,Female,69.6
 Philippines,1990,Male,63.327
@@ -16131,8 +15779,6 @@ Philippines,2018,Male,67.123
 Philippines,2019,Both sexes,71.231
 Philippines,2019,Female,75.505
 Philippines,2019,Male,67.263
-Philippines,2020,Female,75.623
-Philippines,2020,Male,67.39
 Poland,1990,Both sexes,70.823
 Poland,1990,Female,75.256
 Poland,1990,Male,66.494
@@ -16223,8 +15869,6 @@ Poland,2018,Male,74.592
 Poland,2019,Both sexes,78.73
 Poland,2019,Female,82.587
 Poland,2019,Male,74.814
-Poland,2020,Female,82.72200000000001
-Poland,2020,Male,75.025
 Portugal,1990,Both sexes,74.504
 Portugal,1990,Female,78.05199999999999
 Portugal,1990,Male,70.908
@@ -16315,8 +15959,6 @@ Portugal,2018,Male,78.803
 Portugal,2019,Both sexes,82.049
 Portugal,2019,Female,84.853
 Portugal,2019,Male,79.032
-Portugal,2020,Female,84.98700000000001
-Portugal,2020,Male,79.257
 Puerto Rico,1990,Both sexes,74.185
 Puerto Rico,1990,Female,78.69800000000001
 Puerto Rico,1990,Male,69.85600000000001
@@ -16407,8 +16049,6 @@ Puerto Rico,2018,Male,76.346
 Puerto Rico,2019,Both sexes,80.104
 Puerto Rico,2019,Female,83.49799999999999
 Puerto Rico,2019,Male,76.529
-Puerto Rico,2020,Female,83.617
-Puerto Rico,2020,Male,76.726
 Qatar,1990,Both sexes,75.824
 Qatar,1990,Female,76.877
 Qatar,1990,Male,74.945
@@ -16499,8 +16139,6 @@ Qatar,2018,Male,78.98100000000001
 Qatar,2019,Both sexes,80.227
 Qatar,2019,Female,82.01
 Qatar,2019,Male,79.142
-Qatar,2020,Female,82.146
-Qatar,2020,Male,79.314
 Reunion,1990,Both sexes,72.691
 Reunion,1990,Female,76.667
 Reunion,1990,Male,68.684
@@ -16591,8 +16229,6 @@ Reunion,2018,Male,77.45
 Reunion,2019,Both sexes,80.484
 Reunion,2019,Female,83.97200000000001
 Reunion,2019,Male,77.691
-Reunion,2020,Female,84.11399999999999
-Reunion,2020,Male,77.93
 Romania,1990,Both sexes,69.535
 Romania,1990,Female,72.92699999999999
 Romania,1990,Male,66.277
@@ -16683,8 +16319,6 @@ Romania,2018,Male,72.47
 Romania,2019,Both sexes,76.054
 Romania,2019,Female,79.525
 Romania,2019,Male,72.609
-Romania,2020,Female,79.642
-Romania,2020,Male,72.753
 Russia,1990,Both sexes,68.047
 Russia,1990,Female,73.419
 Russia,1990,Male,62.465
@@ -16775,8 +16409,6 @@ Russia,2018,Male,66.92399999999999
 Russia,2019,Both sexes,72.584
 Russia,2019,Female,77.785
 Russia,2019,Male,67.148
-Russia,2020,Female,77.922
-Russia,2020,Male,67.329
 Rwanda,1990,Both sexes,33.413
 Rwanda,1990,Female,34.941
 Rwanda,1990,Male,31.941
@@ -16867,8 +16499,6 @@ Rwanda,2018,Male,66.518
 Rwanda,2019,Both sexes,69.024
 Rwanda,2019,Female,71.132
 Rwanda,2019,Male,66.821
-Rwanda,2020,Female,71.456
-Rwanda,2020,Male,67.108
 Saint Barthlemy,1990,Both sexes,73.749
 Saint Barthlemy,1991,Both sexes,74.109
 Saint Barthlemy,1992,Both sexes,74.463
@@ -17049,8 +16679,6 @@ Saint Lucia,2018,Male,74.72
 Saint Lucia,2019,Both sexes,76.203
 Saint Lucia,2019,Female,77.58
 Saint Lucia,2019,Male,74.851
-Saint Lucia,2020,Female,77.722
-Saint Lucia,2020,Male,74.977
 Saint Martin (French part),1990,Both sexes,73.456
 Saint Martin (French part),1991,Both sexes,73.803
 Saint Martin (French part),1992,Both sexes,74.152
@@ -17201,8 +16829,6 @@ Saint Vincent and the Grenadines,2018,Male,70.182
 Saint Vincent and the Grenadines,2019,Both sexes,72.534
 Saint Vincent and the Grenadines,2019,Female,75.131
 Saint Vincent and the Grenadines,2019,Male,70.289
-Saint Vincent and the Grenadines,2020,Female,75.263
-Saint Vincent and the Grenadines,2020,Male,70.395
 Samoa,1990,Both sexes,66.281
 Samoa,1990,Female,69.505
 Samoa,1990,Male,63.538
@@ -17293,8 +16919,6 @@ Samoa,2018,Male,71.197
 Samoa,2019,Both sexes,73.321
 Samoa,2019,Female,75.464
 Samoa,2019,Male,71.324
-Samoa,2020,Female,75.60600000000001
-Samoa,2020,Male,71.44
 San Marino,1990,Both sexes,79.411
 San Marino,1991,Both sexes,79.61
 San Marino,1992,Both sexes,79.808
@@ -17415,8 +17039,6 @@ Sao Tome and Principe,2018,Male,67.783
 Sao Tome and Principe,2019,Both sexes,70.385
 Sao Tome and Principe,2019,Female,72.814
 Sao Tome and Principe,2019,Male,67.98
-Sao Tome and Principe,2020,Female,73.029
-Sao Tome and Principe,2020,Male,68.15899999999999
 Saudi Arabia,1990,Both sexes,69.078
 Saudi Arabia,1990,Female,70.984
 Saudi Arabia,1990,Male,67.551
@@ -17507,8 +17129,6 @@ Saudi Arabia,2018,Male,73.79899999999999
 Saudi Arabia,2019,Both sexes,75.133
 Saudi Arabia,2019,Female,76.759
 Saudi Arabia,2019,Male,73.935
-Saudi Arabia,2020,Female,76.919
-Saudi Arabia,2020,Male,74.079
 Senegal,1990,Both sexes,57.202
 Senegal,1990,Female,58.817
 Senegal,1990,Male,55.627
@@ -17599,8 +17219,6 @@ Senegal,2018,Male,65.501
 Senegal,2019,Both sexes,67.941
 Senegal,2019,Female,69.918
 Senegal,2019,Male,65.757
-Senegal,2020,Female,70.203
-Senegal,2020,Male,66.014
 Serbia,1990,Both sexes,71.5
 Serbia,1990,Female,74.4
 Serbia,1990,Male,68.65
@@ -17691,8 +17309,6 @@ Serbia,2018,Male,73.25
 Serbia,2019,Both sexes,76.001
 Serbia,2019,Female,78.617
 Serbia,2019,Male,73.407
-Serbia,2020,Female,78.752
-Serbia,2020,Male,73.556
 Seychelles,1990,Both sexes,70.767
 Seychelles,1990,Female,75.396
 Seychelles,1990,Male,66.574
@@ -17783,8 +17399,6 @@ Seychelles,2018,Male,69.832
 Seychelles,2019,Both sexes,73.402
 Seychelles,2019,Female,77.382
 Seychelles,2019,Male,69.90100000000001
-Seychelles,2020,Female,77.462
-Seychelles,2020,Male,69.985
 Sierra Leone,1990,Both sexes,38.563
 Sierra Leone,1990,Female,39.098
 Sierra Leone,1990,Male,38.033
@@ -17875,8 +17489,6 @@ Sierra Leone,2018,Male,53.468
 Sierra Leone,2019,Both sexes,54.696
 Sierra Leone,2019,Female,55.495
 Sierra Leone,2019,Male,53.853
-Sierra Leone,2020,Female,55.875
-Sierra Leone,2020,Male,54.213
 Singapore,1990,Both sexes,75.936
 Singapore,1990,Female,78.21600000000001
 Singapore,1990,Male,73.733
@@ -17967,8 +17579,6 @@ Singapore,2018,Male,81.34100000000001
 Singapore,2019,Both sexes,83.62
 Singapore,2019,Female,85.728
 Singapore,2019,Male,81.52600000000001
-Singapore,2020,Female,85.86399999999999
-Singapore,2020,Male,81.695
 Sint Maarten (Dutch part),1990,Both sexes,74.643
 Sint Maarten (Dutch part),1991,Both sexes,74.803
 Sint Maarten (Dutch part),1992,Both sexes,74.953
@@ -18089,8 +17699,6 @@ Slovakia,2018,Male,73.836
 Slovakia,2019,Both sexes,77.542
 Slovakia,2019,Female,80.96
 Slovakia,2019,Male,74.02
-Slovakia,2020,Female,81.084
-Slovakia,2020,Male,74.193
 Slovenia,1990,Both sexes,73.202
 Slovenia,1990,Female,77.11
 Slovenia,1990,Male,69.143
@@ -18181,8 +17789,6 @@ Slovenia,2018,Male,78.378
 Slovenia,2019,Both sexes,81.324
 Slovenia,2019,Female,84.04
 Slovenia,2019,Male,78.575
-Slovenia,2020,Female,84.156
-Slovenia,2020,Male,78.77199999999999
 Small Island Developing States (SIDS),1990,Female,67.771
 Small Island Developing States (SIDS),1990,Male,63.394
 Small Island Developing States (SIDS),1991,Female,68.021
@@ -18243,8 +17849,6 @@ Small Island Developing States (SIDS),2018,Female,74.561
 Small Island Developing States (SIDS),2018,Male,69.939
 Small Island Developing States (SIDS),2019,Female,74.76
 Small Island Developing States (SIDS),2019,Male,70.132
-Small Island Developing States (SIDS),2020,Female,74.953
-Small Island Developing States (SIDS),2020,Male,70.318
 Solomon Islands,1990,Both sexes,64.365
 Solomon Islands,1990,Female,65.544
 Solomon Islands,1990,Male,63.534
@@ -18335,8 +17939,6 @@ Solomon Islands,2018,Male,71.158
 Solomon Islands,2019,Both sexes,72.996
 Solomon Islands,2019,Female,74.866
 Solomon Islands,2019,Male,71.3
-Solomon Islands,2020,Female,75.014
-Solomon Islands,2020,Male,71.415
 Somalia,1990,Both sexes,45.378
 Somalia,1990,Female,46.95
 Somalia,1990,Male,43.903
@@ -18427,8 +18029,6 @@ Somalia,2018,Male,55.41
 Somalia,2019,Both sexes,57.397
 Somalia,2019,Female,59.132
 Somalia,2019,Male,55.725
-Somalia,2020,Female,59.443000000000005
-Somalia,2020,Male,56.011
 South Africa,1990,Both sexes,63.307
 South Africa,1990,Female,66.342
 South Africa,1990,Male,60.472
@@ -18519,8 +18119,6 @@ South Africa,2018,Male,60.463
 South Africa,2019,Both sexes,64.131
 South Africa,2019,Female,67.679
 South Africa,2019,Male,60.726000000000006
-South Africa,2020,Female,67.93
-South Africa,2020,Male,60.966
 South America,1990,Female,71.102
 South America,1990,Male,64.45
 South America,1991,Female,71.484
@@ -18581,8 +18179,6 @@ South America,2018,Female,79.13600000000001
 South America,2018,Male,72.351
 South America,2019,Female,79.297
 South America,2019,Male,72.547
-South America,2020,Female,79.455
-South America,2020,Male,72.748
 South Eastern Asia,1990,Female,67.036
 South Eastern Asia,1990,Male,62.021
 South Eastern Asia,1991,Female,67.396
@@ -18643,8 +18239,6 @@ South Eastern Asia,2018,Female,75.608
 South Eastern Asia,2018,Male,69.578
 South Eastern Asia,2019,Female,75.794
 South Eastern Asia,2019,Male,69.768
-South Eastern Asia,2020,Female,75.968
-South Eastern Asia,2020,Male,69.942
 South Korea,1990,Both sexes,71.657
 South Korea,1990,Female,75.869
 South Korea,1990,Male,67.4
@@ -18735,8 +18329,6 @@ South Korea,2018,Male,79.715
 South Korea,2019,Both sexes,83.033
 South Korea,2019,Female,85.954
 South Korea,2019,Male,79.935
-South Korea,2020,Female,86.10600000000001
-South Korea,2020,Male,80.122
 South Sudan,1990,Both sexes,43.524
 South Sudan,1990,Female,44.957
 South Sudan,1990,Male,42.149
@@ -18827,8 +18419,6 @@ South Sudan,2018,Male,56.115
 South Sudan,2019,Both sexes,57.846
 South Sudan,2019,Female,59.383
 South Sudan,2019,Male,56.351000000000006
-South Sudan,2020,Female,59.64
-South Sudan,2020,Male,56.593
 Southern Africa,1990,Female,66.013
 Southern Africa,1990,Male,60.033
 Southern Africa,1991,Female,66.187
@@ -18889,8 +18479,6 @@ Southern Africa,2018,Female,67.035
 Southern Africa,2018,Male,60.13399999999999
 Southern Africa,2019,Female,67.347
 Southern Africa,2019,Male,60.425
-Southern Africa,2020,Female,67.62
-Southern Africa,2020,Male,60.685
 Southern Asia,1990,Female,58.822
 Southern Asia,1990,Male,57.806
 Southern Asia,1991,Female,59.363
@@ -18951,8 +18539,6 @@ Southern Asia,2018,Female,70.89699999999999
 Southern Asia,2018,Male,68.275
 Southern Asia,2019,Female,71.14699999999999
 Southern Asia,2019,Male,68.491
-Southern Asia,2020,Female,71.392
-Southern Asia,2020,Male,68.699
 Southern Europe,1990,Female,79.097
 Southern Europe,1990,Male,72.407
 Southern Europe,1991,Female,79.305
@@ -19013,8 +18599,6 @@ Southern Europe,2018,Female,84.566
 Southern Europe,2018,Male,79.646
 Southern Europe,2019,Female,84.697
 Southern Europe,2019,Male,79.82600000000001
-Southern Europe,2020,Female,84.825
-Southern Europe,2020,Male,79.999
 Spain,1990,Both sexes,77.215
 Spain,1990,Female,80.723
 Spain,1990,Male,73.679
@@ -19105,8 +18689,6 @@ Spain,2018,Male,80.685
 Spain,2019,Both sexes,83.565
 Spain,2019,Female,86.24799999999999
 Spain,2019,Male,80.82600000000001
-Spain,2020,Female,86.374
-Spain,2020,Male,80.96
 Sri Lanka,1990,Both sexes,69.509
 Sri Lanka,1990,Female,73.192
 Sri Lanka,1990,Male,66.282
@@ -19197,8 +18779,6 @@ Sri Lanka,2018,Male,73.415
 Sri Lanka,2019,Both sexes,76.978
 Sri Lanka,2019,Female,80.26100000000001
 Sri Lanka,2019,Male,73.596
-Sri Lanka,2020,Female,80.399
-Sri Lanka,2020,Male,73.779
 Sub-Saharan Africa,1990,Female,51.108
 Sub-Saharan Africa,1990,Male,47.749
 Sub-Saharan Africa,1991,Female,51.049
@@ -19259,8 +18839,6 @@ Sub-Saharan Africa,2018,Female,62.494
 Sub-Saharan Africa,2018,Male,58.957
 Sub-Saharan Africa,2019,Female,62.876000000000005
 Sub-Saharan Africa,2019,Male,59.306
-Sub-Saharan Africa,2020,Female,63.225
-Sub-Saharan Africa,2020,Male,59.624
 Sudan,1990,Both sexes,55.5
 Sudan,1990,Female,57.022
 Sudan,1990,Male,54.025
@@ -19351,8 +18929,6 @@ Sudan,2018,Male,63.277
 Sudan,2019,Both sexes,65.311
 Sudan,2019,Female,67.187
 Sudan,2019,Male,63.467
-Sudan,2020,Female,67.429
-Sudan,2020,Male,63.665
 Suriname,1990,Both sexes,67.436
 Suriname,1990,Female,70.812
 Suriname,1990,Male,64.408
@@ -19443,8 +19019,6 @@ Suriname,2018,Male,68.368
 Suriname,2019,Both sexes,71.682
 Suriname,2019,Female,75.063
 Suriname,2019,Male,68.468
-Suriname,2020,Female,75.195
-Suriname,2020,Male,68.577
 Sweden,1990,Both sexes,77.637
 Sweden,1990,Female,80.484
 Sweden,1990,Male,74.822
@@ -19535,8 +19109,6 @@ Sweden,2018,Male,80.86
 Sweden,2019,Both sexes,82.797
 Sweden,2019,Female,84.56
 Sweden,2019,Male,81.029
-Sweden,2020,Female,84.678
-Sweden,2020,Male,81.209
 Switzerland,1990,Both sexes,77.568
 Switzerland,1990,Female,80.923
 Switzerland,1990,Male,74.11
@@ -19627,8 +19199,6 @@ Switzerland,2018,Male,81.693
 Switzerland,2019,Both sexes,83.779
 Switzerland,2019,Female,85.596
 Switzerland,2019,Male,81.874
-Switzerland,2020,Female,85.72
-Switzerland,2020,Male,82.044
 Syria,1990,Both sexes,70.553
 Syria,1990,Female,72.104
 Syria,1990,Male,69.074
@@ -19719,8 +19289,6 @@ Syria,2018,Male,66.578
 Syria,2019,Both sexes,72.697
 Syria,2019,Female,78.10300000000001
 Syria,2019,Male,67.941
-Syria,2020,Female,78.419
-Syria,2020,Male,69.387
 Taiwan,1990,Both sexes,73.92
 Taiwan,1990,Female,76.745
 Taiwan,1990,Male,71.556
@@ -19811,8 +19379,6 @@ Taiwan,2018,Male,77.583
 Taiwan,2019,Both sexes,80.456
 Taiwan,2019,Female,83.205
 Taiwan,2019,Male,77.786
-Taiwan,2020,Female,83.33200000000001
-Taiwan,2020,Male,77.988
 Tajikistan,1990,Both sexes,58.824
 Tajikistan,1990,Female,61.494
 Tajikistan,1990,Male,56.235
@@ -19903,8 +19469,6 @@ Tajikistan,2018,Male,68.727
 Tajikistan,2019,Both sexes,71.097
 Tajikistan,2019,Female,73.389
 Tajikistan,2019,Male,68.935
-Tajikistan,2020,Female,73.59899999999999
-Tajikistan,2020,Male,69.12100000000001
 Tanzania,1990,Both sexes,50.206
 Tanzania,1990,Female,52.11
 Tanzania,1990,Male,48.354
@@ -19995,8 +19559,6 @@ Tanzania,2018,Male,63.17
 Tanzania,2019,Both sexes,65.456
 Tanzania,2019,Female,67.233
 Tanzania,2019,Male,63.643
-Tanzania,2020,Female,67.587
-Tanzania,2020,Male,64.009
 Thailand,1990,Both sexes,70.248
 Thailand,1990,Female,73.433
 Thailand,1990,Male,67.175
@@ -20087,8 +19649,6 @@ Thailand,2018,Male,73.22800000000001
 Thailand,2019,Both sexes,77.15
 Thailand,2019,Female,80.9
 Thailand,2019,Male,73.46
-Thailand,2020,Female,81.062
-Thailand,2020,Male,73.67699999999999
 Timor,1990,Both sexes,48.492
 Timor,1990,Female,50.113
 Timor,1990,Male,46.979
@@ -20179,8 +19739,6 @@ Timor,2018,Male,67.279
 Timor,2019,Both sexes,69.495
 Timor,2019,Female,71.635
 Timor,2019,Male,67.492
-Timor,2020,Female,71.869
-Timor,2020,Male,67.692
 Togo,1990,Both sexes,55.887
 Togo,1990,Female,57.132
 Togo,1990,Male,54.626000000000005
@@ -20271,8 +19829,6 @@ Togo,2018,Male,59.892
 Togo,2019,Both sexes,61.042
 Togo,2019,Female,61.918
 Togo,2019,Male,60.152
-Togo,2020,Female,62.239
-Togo,2020,Male,60.429
 Tokelau,1990,Both sexes,74.778
 Tokelau,1991,Both sexes,75.136
 Tokelau,1992,Both sexes,75.493
@@ -20393,8 +19949,6 @@ Tonga,2018,Male,68.877
 Tonga,2019,Both sexes,70.907
 Tonga,2019,Female,72.887
 Tonga,2019,Male,68.967
-Tonga,2020,Female,73.01899999999999
-Tonga,2020,Male,69.057
 Trinidad and Tobago,1990,Both sexes,68.086
 Trinidad and Tobago,1990,Female,69.905
 Trinidad and Tobago,1990,Male,66.28399999999999
@@ -20485,8 +20039,6 @@ Trinidad and Tobago,2018,Male,70.751
 Trinidad and Tobago,2019,Both sexes,73.507
 Trinidad and Tobago,2019,Female,76.22399999999999
 Trinidad and Tobago,2019,Male,70.874
-Trinidad and Tobago,2020,Female,76.352
-Trinidad and Tobago,2020,Male,70.987
 Tunisia,1990,Both sexes,68.792
 Tunisia,1990,Female,70.983
 Tunisia,1990,Male,66.791
@@ -20577,8 +20129,6 @@ Tunisia,2018,Male,74.493
 Tunisia,2019,Both sexes,76.699
 Tunisia,2019,Female,78.721
 Tunisia,2019,Male,74.688
-Tunisia,2020,Female,78.903
-Tunisia,2020,Male,74.883
 Turkey,1990,Both sexes,64.256
 Turkey,1990,Female,68.027
 Turkey,1990,Male,60.716
@@ -20669,8 +20219,6 @@ Turkey,2018,Male,74.447
 Turkey,2019,Both sexes,77.691
 Turkey,2019,Female,80.563
 Turkey,2019,Male,74.72399999999999
-Turkey,2020,Female,80.76899999999999
-Turkey,2020,Male,74.984
 Turkmenistan,1990,Both sexes,62.81
 Turkmenistan,1990,Female,66.483
 Turkmenistan,1990,Male,59.1
@@ -20761,8 +20309,6 @@ Turkmenistan,2018,Male,64.60300000000001
 Turkmenistan,2019,Both sexes,68.191
 Turkmenistan,2019,Female,71.717
 Turkmenistan,2019,Male,64.705
-Turkmenistan,2020,Female,71.852
-Turkmenistan,2020,Male,64.813
 Turks and Caicos Islands,1990,Both sexes,70.696
 Turks and Caicos Islands,1991,Both sexes,71.088
 Turks and Caicos Islands,1992,Both sexes,71.636
@@ -20913,8 +20459,6 @@ Uganda,2018,Male,60.655
 Uganda,2019,Both sexes,63.368
 Uganda,2019,Female,65.622
 Uganda,2019,Male,61.0
-Uganda,2020,Female,66.001
-Uganda,2020,Male,61.317
 Ukraine,1990,Both sexes,69.835
 Ukraine,1990,Female,74.232
 Ukraine,1990,Male,65.092
@@ -21005,8 +20549,6 @@ Ukraine,2018,Male,66.982
 Ukraine,2019,Both sexes,72.065
 Ukraine,2019,Female,76.848
 Ukraine,2019,Male,67.097
-Ukraine,2020,Female,76.96600000000001
-Ukraine,2020,Male,67.221
 United Arab Emirates,1990,Both sexes,71.939
 United Arab Emirates,1990,Female,73.461
 United Arab Emirates,1990,Male,70.999
@@ -21097,8 +20639,6 @@ United Arab Emirates,2018,Male,77.133
 United Arab Emirates,2019,Both sexes,77.972
 United Arab Emirates,2019,Female,79.314
 United Arab Emirates,2019,Male,77.291
-United Arab Emirates,2020,Female,79.458
-United Arab Emirates,2020,Male,77.442
 United Kingdom,1990,Both sexes,75.689
 United Kingdom,1990,Female,78.428
 United Kingdom,1990,Male,72.84899999999999
@@ -21189,8 +20729,6 @@ United Kingdom,2018,Male,79.487
 United Kingdom,2019,Both sexes,81.321
 United Kingdom,2019,Female,82.999
 United Kingdom,2019,Male,79.613
-United Kingdom,2020,Female,83.06
-United Kingdom,2020,Male,79.763
 United States,1990,Both sexes,75.246
 United States,1990,Female,78.719
 United States,1990,Male,71.744
@@ -21281,8 +20819,6 @@ United States,2018,Male,76.34
 United States,2019,Both sexes,78.862
 United States,2019,Female,81.405
 United States,2019,Male,76.34100000000001
-United States,2020,Female,81.452
-United States,2020,Male,76.375
 United States Virgin Islands,1990,Both sexes,74.214
 United States Virgin Islands,1990,Female,76.111
 United States Virgin Islands,1990,Male,72.45
@@ -21373,8 +20909,6 @@ United States Virgin Islands,2018,Male,77.762
 United States Virgin Islands,2019,Both sexes,80.583
 United States Virgin Islands,2019,Female,83.105
 United States Virgin Islands,2019,Male,77.954
-United States Virgin Islands,2020,Female,83.21799999999999
-United States Virgin Islands,2020,Male,78.148
 Upper-middle-income countries,1990,Female,70.98899999999999
 Upper-middle-income countries,1990,Male,65.825
 Upper-middle-income countries,1991,Female,71.185
@@ -21435,8 +20969,6 @@ Upper-middle-income countries,2018,Female,78.383
 Upper-middle-income countries,2018,Male,72.889
 Upper-middle-income countries,2019,Female,78.564
 Upper-middle-income countries,2019,Male,73.094
-Upper-middle-income countries,2020,Female,78.723
-Upper-middle-income countries,2020,Male,73.282
 Uruguay,1990,Both sexes,72.569
 Uruguay,1990,Female,76.381
 Uruguay,1990,Male,68.882
@@ -21527,8 +21059,6 @@ Uruguay,2018,Male,73.958
 Uruguay,2019,Both sexes,77.911
 Uruguay,2019,Female,81.47800000000001
 Uruguay,2019,Male,74.119
-Uruguay,2020,Female,81.595
-Uruguay,2020,Male,74.29
 Uzbekistan,1990,Both sexes,66.481
 Uzbekistan,1990,Female,69.411
 Uzbekistan,1990,Male,63.42100000000001
@@ -21619,8 +21149,6 @@ Uzbekistan,2018,Male,69.445
 Uzbekistan,2019,Both sexes,71.725
 Uzbekistan,2019,Female,73.829
 Uzbekistan,2019,Male,69.592
-Uzbekistan,2020,Female,73.968
-Uzbekistan,2020,Male,69.697
 Vanuatu,1990,Both sexes,64.721
 Vanuatu,1990,Female,65.87899999999999
 Vanuatu,1990,Male,63.81
@@ -21711,8 +21239,6 @@ Vanuatu,2018,Male,68.847
 Vanuatu,2019,Both sexes,70.474
 Vanuatu,2019,Female,72.154
 Vanuatu,2019,Male,68.985
-Vanuatu,2020,Female,72.322
-Vanuatu,2020,Male,69.11399999999999
 Vatican,1990,Both sexes,66.476
 Vatican,1991,Both sexes,66.872
 Vatican,1992,Both sexes,67.269
@@ -21833,8 +21359,6 @@ Venezuela,2018,Male,68.398
 Venezuela,2019,Both sexes,72.064
 Venezuela,2019,Female,76.00399999999999
 Venezuela,2019,Male,68.327
-Venezuela,2020,Female,76.0
-Venezuela,2020,Male,68.324
 Vietnam,1990,Both sexes,70.551
 Vietnam,1990,Female,75.126
 Vietnam,1990,Male,65.986
@@ -21925,8 +21449,6 @@ Vietnam,2018,Male,71.207
 Vietnam,2019,Both sexes,75.4
 Vietnam,2019,Female,79.523
 Vietnam,2019,Male,71.301
-Vietnam,2020,Female,79.609
-Vietnam,2020,Male,71.407
 Wallis and Futuna,1990,Both sexes,73.63
 Wallis and Futuna,1991,Both sexes,74.262
 Wallis and Futuna,1992,Both sexes,74.905
@@ -22017,8 +21539,6 @@ Western Africa,2018,Female,58.551
 Western Africa,2018,Male,56.452
 Western Africa,2019,Female,58.931
 Western Africa,2019,Male,56.793
-Western Africa,2020,Female,59.287
-Western Africa,2020,Male,57.112
 Western Asia,1990,Female,69.3
 Western Asia,1990,Male,63.582
 Western Asia,1991,Female,69.699
@@ -22079,8 +21599,6 @@ Western Asia,2018,Female,77.317
 Western Asia,2018,Male,72.238
 Western Asia,2019,Female,77.484
 Western Asia,2019,Male,72.514
-Western Asia,2020,Female,77.646
-Western Asia,2020,Male,72.782
 Western Sahara,1990,Both sexes,57.586
 Western Sahara,1990,Female,59.43899999999999
 Western Sahara,1990,Male,56.137
@@ -22171,8 +21689,6 @@ Western Sahara,2018,Male,68.385
 Western Sahara,2019,Both sexes,70.263
 Western Sahara,2019,Female,72.301
 Western Sahara,2019,Male,68.61
-Western Sahara,2020,Female,72.565
-Western Sahara,2020,Male,68.831
 World,1990,Both sexes,64.18
 World,1990,Female,66.49
 World,1990,Male,61.93600000000001
@@ -22263,8 +21779,6 @@ World,2018,Male,70.028
 World,2019,Both sexes,72.584
 World,2019,Female,75.02199999999999
 World,2019,Male,70.22800000000001
-World,2020,Female,75.202
-World,2020,Male,70.413
 Yemen,1990,Both sexes,57.346
 Yemen,1990,Female,58.858
 Yemen,1990,Male,55.718
@@ -22355,8 +21869,6 @@ Yemen,2018,Male,64.418
 Yemen,2019,Both sexes,66.125
 Yemen,2019,Female,67.82600000000001
 Yemen,2019,Male,64.443
-Yemen,2020,Female,67.885
-Yemen,2020,Male,64.491
 Zambia,1990,Both sexes,49.249
 Zambia,1990,Female,50.531000000000006
 Zambia,1990,Male,47.996
@@ -22447,8 +21959,6 @@ Zambia,2018,Male,60.533
 Zambia,2019,Both sexes,63.886
 Zambia,2019,Female,66.891
 Zambia,2019,Male,60.848
-Zambia,2020,Female,67.236
-Zambia,2020,Male,61.125
 Zimbabwe,1990,Both sexes,58.1
 Zimbabwe,1990,Female,61.355
 Zimbabwe,1990,Male,55.115
@@ -22539,5 +22049,3 @@ Zimbabwe,2018,Male,59.501000000000005
 Zimbabwe,2019,Both sexes,61.49
 Zimbabwe,2019,Female,62.899
 Zimbabwe,2019,Male,59.798
-Zimbabwe,2020,Female,63.164
-Zimbabwe,2020,Male,60.037
