@@ -52,7 +52,7 @@
   "38-3_BasicHandWashingRural":"Basic Hand Washing Rural",
   "39_CleanFuelAndTech": "Clean Fuel and Technology",
   "40_BirthRate": "Birth Rate",
-  "41_BattleRelatedDeaths": "Battle Realted Deaths",
+  "41_BattleRelatedDeaths": "Battle Related Deaths",
   "42_InjuryDeathsPercentage": "% Injury Deaths",
   "43_DeathRate": "Death Rate",
   "44_GDPperCapita": "GDP per Capita",
@@ -66,5 +66,7 @@
   "47-4_PopulationAges65-69": "% Population Aged 65-69",
   "47-5_PopulationAges70-74": "% Population Aged 70-74",
   "47-6_PopulationAges75-79": "% Population Aged 75-79",
-  "47-7_PopulationAges80+": "% Population Aged 80+"
+  "47-7_PopulationAges80+": "% Population Aged 80+",
+  "48_TotalPopulation": "Total Population",
+  "49_GNIperCapita": "GNI per Capita"
   }
