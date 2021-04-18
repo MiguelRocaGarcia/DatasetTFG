@@ -43,6 +43,7 @@ Croatia
 Cuba
 Cyprus
 Czechia
+Democratic Republic of Congo
 Denmark
 Djibouti
 Dominica
@@ -123,7 +124,6 @@ New Zealand
 Nicaragua
 Niger
 Nigeria
-Niue
 North Korea
 North Macedonia
 Norway
